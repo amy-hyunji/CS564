@@ -8,7 +8,7 @@ VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity,Securit
 A Generic Technique for Automatically Finding Defense-Aware Code Reuse Attacks,Security,False
 Security Analysis and Implementation of Relay-Resistant Contactless Payments,Security,False
 MuSig-DN: Two-Round Schnorr Multi-Signatures with Verifiably Deterministic Nonces,Security,False
-LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction,Security,False
+"LEAF: A Faster Secure Search Algorithm via Localization, Extraction", and Reconstruction,Security,False
 GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models,Security,False
 DECO: Liberating Web Data Using Decentralized Oracles for TLS,Security,False
 PDiff: Semantic-based Patch Presence Testing for Downstream Kernels,Security,False

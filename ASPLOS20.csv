@@ -1,0 +1,87 @@
+Title,Category,Best Paper
+Shredder: Learning Noise Distributions to Protect Inference Privacy,Architecture and Programming Language,False
+Reliable Timekeeping for Intermittent Computing,Architecture and Programming Language,False
+DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks,Architecture and Programming Language,False
+Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation,Architecture and Programming Language,False
+Game of Threads: Enabling Asynchronous Poisoning Attacks,Architecture and Programming Language,False
+Time-sensitive Intermittent Computing Meets Legacy Software,Architecture and Programming Language,False
+IOctopus: Outsmarting Nonuniform DMA,Architecture and Programming Language,True
+Egalito: Layout-Agnostic Binary Recompilation,Architecture and Programming Language,False
+Lynx: A SmartNIC-driven Accelerator-centric Architecture for Network Servers,Architecture and Programming Language,False
+Noise-Aware Dynamical System Compilation for Analog Devices with Legno,Architecture and Programming Language,False
+Reproducible Containers,Architecture and Programming Language,False
+FlexAmata: A Universal and Efficient Adaption of Applications to Spatial Automata Processing Accelerators,Architecture and Programming Language,False
+Atomicity Checking in Linear Time using Vector Clocks,Architecture and Programming Language,False
+Accelerating Legacy String Kernels via Bounded Automata Learning,Architecture and Programming Language,False
+Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol,Architecture and Programming Language,False
+Why GPUs are Slow at Executing NFAs and How to Make them Faster,Architecture and Programming Language,False
+0sim: Preparing System Software for a World with Terabyte-scale Memories,Architecture and Programming Language,False
+Peacenik: Architecture Support for Not Failing under Fail-Stop Memory Consistency,Architecture and Programming Language,False
+Mitosis: Transparently Self-Replicating Page-Tables for Large-Memory Machines,Architecture and Programming Language,False
+Durable Transactional Memory Can Scale with Timestone,Architecture and Programming Language,False
+Hailstorm: Disaggregated Compute and Storage for Distributed LSM-based Databases,Architecture and Programming Language,True
+Perspective: A Sensible Approach to Speculative Automatic Parallelization,Architecture and Programming Language,False
+Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators,Architecture and Programming Language,False
+Livia: Data-Centric Computing Throughout the Memory Hierarchy,Architecture and Programming Language,False
+DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints,Architecture and Programming Language,False
+A Computational Temporal Logic for Superconducting Accelerators,Architecture and Programming Language,False
+Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training,Architecture and Programming Language,False
+"CryoCache: A Fast, Large, and Cost-Effective Cache Architecture for Cryogenic Computing",Architecture and Programming Language,False
+Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting,Architecture and Programming Language,False
+Classifying Memory Access Patterns for Prefetching,Architecture and Programming Language,False
+High-density Multi-tenant Bare-metal Cloud,Architecture and Programming Language,False
+Thesaurus: Efficient Cache Compression via Dynamic Clustering,Architecture and Programming Language,False
+Data Center Power Oversubscription with a Medium Voltage Power Plane and Priority-Aware Capping,Architecture and Programming Language,False
+Learning-based Memory Allocation for C++ Server Workloads,Architecture and Programming Language,False
+Optimizing Nested Virtualization Performance Using Direct Virtual Hardware,Architecture and Programming Language,False
+Challenging Sequential Bitstream Processing via Principled Bitwise Speculation,Architecture and Programming Language,True
+HaRMony: Heterogeneous-Reliability Memory and QoS-Aware Energy Management on Virtualized Servers,Architecture and Programming Language,False
+Vortex: Extreme-Performance Memory Abstractions for Data-Intensive Streaming Applications,Architecture and Programming Language,False
+LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs,Architecture and Programming Language,False
+Fleet: A Framework for Massively Parallel Streaming on FPGAs,Architecture and Programming Language,False
+Hurdle: Securing Jump Instructions Against Code Reuse Attacks,Architecture and Programming Language,False
+"BYOC: A Bring Your Own Core"" Framework for Heterogeneous-ISA Research""",Architecture and Programming Language,False
+Exploring Branch Predictors for Constructing Transient Execution Trojans,Architecture and Programming Language,False
+FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design,Architecture and Programming Language,False
+A Benchmark Suite for Evaluating Caches‘ Vulnerability to Timing Attacks,Architecture and Programming Language,False
+Accelerometer: Understanding Acceleration Opportunities for Data Center Overheads at Hyperscale,Architecture and Programming Language,True
+AsymNVM: An Efficient Framework for Implementing Persistent Data Structures on Asymmetric NVM Architecture,Architecture and Programming Language,False
+AvA: Accelerated Virtualization of Accelerators,Architecture and Programming Language,False
+MOD: Minimally Ordered Durable Datastructures for Persistent Memory,Architecture and Programming Language,False
+A Hypervisor for Shared-Memory FPGA Platforms,Architecture and Programming Language,False
+Pronto: Easy and Fast Persistence for Volatile Data Structures,Architecture and Programming Language,False
+Virtualizing FPGAs in the Cloud,Architecture and Programming Language,False
+FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System,Architecture and Programming Language,False
+PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning,Architecture and Programming Language,False
+AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming,Architecture and Programming Language,False
+Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices,Architecture and Programming Language,False
+Capuchin: Tensor-based GPU Memory Management for Deep Learning,Architecture and Programming Language,False
+Orbital Edge Computing: Nanosatellite Constellations as a New Class of Computer System,Architecture and Programming Language,True
+Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX,Architecture and Programming Language,False
+Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers,Architecture and Programming Language,False
+COIN Attacks: On Insecurity of Enclave Untrusted Interfaces in SGX,Architecture and Programming Language,False
+Quantum Circuits for Dynamic Runtime Assertions in Quantum Computation,Architecture and Programming Language,False
+MERR: Improving Security of Persistent Memory Objects via Efficient Memory Exposure Reduction and Randomization,Architecture and Programming Language,False
+Towards Efficient Superconducting Quantum Processor Architecture Design,Architecture and Programming Language,False
+SAC: A Co-Design Cache Algorithm for Emerging SMR-based High-Density Disks,Architecture and Programming Language,False
+Elastic Cuckoo Page Tables: Rethinking Virtual Memory Translation for Parallelism,Architecture and Programming Language,True
+Fair Write Attribution and Allocation for Consolidated Flash Cache,Architecture and Programming Language,False
+NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units,Architecture and Programming Language,False
+FlatStore: An Efficient Log-Structured Key-Value Storage Engine for Persistent Memory,Architecture and Programming Language,False
+Safecracker: Leaking Secrets through Compressed Caches,Architecture and Programming Language,False
+Effective Concurrency Testing for Distributed Systems,Architecture and Programming Language,False
+Optimus Prime: Accelerating Data Transformation in Servers,Architecture and Programming Language,False
+HMC: Model Checking for Hardware Memory Models,Architecture and Programming Language,False
+The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins,Architecture and Programming Language,False
+Lazy Release Persistency,Architecture and Programming Language,False
+IIU: Specialized Architecture for Inverted Index Search,Architecture and Programming Language,False
+Cross-Failure Bug Detection in Persistent Memory Programs,Architecture and Programming Language,False
+Chronos: Efficient Speculative Parallelism for Accelerators,Architecture and Programming Language,False
+Klotski: Efficient Obfuscated Execution against Controlled-Channel Attacks,Architecture and Programming Language,False
+Dimensionality-Aware Redundant SIMT Instruction Elimination,Architecture and Programming Language,False
+The Guardian Council: Parallel Programmable Hardware Security,Architecture and Programming Language,False
+SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping,Architecture and Programming Language,False
+HEAX: An Architecture for Computing on Encrypted Data,Architecture and Programming Language,False
+Batch-Aware Unified Memory Management in GPUs for Irregular Workloads,Architecture and Programming Language,False
+Evanesco: Architectural Support for Efficient Data Sanitization in Modern Flash-Based Storage Systems,Architecture and Programming Language,False
+HSM: A Hybrid Slowdown Model for Multitasking GPUs,Architecture and Programming Language,False
