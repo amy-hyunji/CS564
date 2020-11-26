@@ -13,7 +13,7 @@ Reproducible Containers,Architecture and Programming Language,False
 FlexAmata: A Universal and Efficient Adaption of Applications to Spatial Automata Processing Accelerators,Architecture and Programming Language,False
 Atomicity Checking in Linear Time using Vector Clocks,Architecture and Programming Language,False
 Accelerating Legacy String Kernels via Bounded Automata Learning,Architecture and Programming Language,False
-Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol,Architecture and Programming Language,False
+"Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol",Architecture and Programming Language,False
 Why GPUs are Slow at Executing NFAs and How to Make them Faster,Architecture and Programming Language,False
 0sim: Preparing System Software for a World with Terabyte-scale Memories,Architecture and Programming Language,False
 Peacenik: Architecture Support for Not Failing under Fail-Stop Memory Consistency,Architecture and Programming Language,False
