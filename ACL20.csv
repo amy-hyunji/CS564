@@ -1,871 +1,871 @@
 Title,Category,Best Paper
-2kenize: Tying Subword Sequences for Chinese Script Conversion,Natural Language Processing,FALSE
-A Batch Normalized Inference Network Keeps the KL Vanishing Away,Natural Language Processing,FALSE
-A Call for More Rigor in Unsupervised Cross-lingual Learning,Natural Language Processing,FALSE
-A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks,Natural Language Processing,FALSE
-A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,Natural Language Processing,FALSE
-A Corpus for Large-Scale Phonetic Typology,Natural Language Processing,FALSE
-A Formal Hierarchy of RNN Architectures,Natural Language Processing,FALSE
-A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization,Natural Language Processing,FALSE
-A Generative Model for Joint Natural Language Understanding and Generation,Natural Language Processing,FALSE
-A Girl Has A Name: Detecting Authorship Obfuscation,Natural Language Processing,FALSE
-A Graph Auto-encoder Model of Derivational Morphology,Natural Language Processing,FALSE
-A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction,Natural Language Processing,FALSE
-A Joint Model for Document Segmentation and Segment Labeling,Natural Language Processing,FALSE
-A Joint Neural Model for Information Extraction with Global Features,Natural Language Processing,FALSE
-A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation,Natural Language Processing,FALSE
-A Mixture of h ? 1 Heads is Better than h Heads,Natural Language Processing,FALSE
-A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages,Natural Language Processing,FALSE
-A Multitask Learning Approach for Diacritic Restoration,Natural Language Processing,FALSE
-A Novel Cascade Binary Tagging Framework for Relational Triple Extraction,Natural Language Processing,FALSE
-A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation,Natural Language Processing,FALSE
-A Prioritization Model for Suicidality Risk Assessment,Natural Language Processing,FALSE
-A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks,Natural Language Processing,FALSE
-A Reinforced Generation of Adversarial Examples for Neural Machine Translation,Natural Language Processing,FALSE
-A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,Natural Language Processing,FALSE
-A Span-based Linearization for Constituent Trees,Natural Language Processing,FALSE
-A Study of Non-autoregressive Model for Sequence Generation,Natural Language Processing,FALSE
-A Systematic Assessment of Syntactic Generalization in Neural Language Models,Natural Language Processing,FALSE
-A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer's Type,Natural Language Processing,FALSE
-A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure,Natural Language Processing,FALSE
-A Unified MRC Framework for Named Entity Recognition,Natural Language Processing,FALSE
-Adaptive Compression of Word Embeddings,Natural Language Processing,FALSE
-Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation,Natural Language Processing,FALSE
-AdvAug: Robust Adversarial Augmentation for Neural Machine Translation,Natural Language Processing,FALSE
-Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis,Natural Language Processing,FALSE
-Adversarial NLI: A New Benchmark for Natural Language Understanding,Natural Language Processing,FALSE
-Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity,Natural Language Processing,FALSE
-Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,Natural Language Processing,FALSE
-"Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",Natural Language Processing,FALSE
-AMR Parsing via Graph-Sequence Iterative Inference,Natural Language Processing,FALSE
-AMR Parsing with Latent Structural Information,Natural Language Processing,FALSE
-An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models,Natural Language Processing,FALSE
-An Effective Transition-based Model for Discontinuous NER,Natural Language Processing,FALSE
-An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results,Natural Language Processing,FALSE
-An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering,Natural Language Processing,FALSE
-Analysing Lexical Semantic Change with Contextualised Word Representations,Natural Language Processing,FALSE
-Analyzing analytical methods: The case of phonology in neural models of spoken language,Natural Language Processing,FALSE
-Analyzing Political Parody in Social Media,Natural Language Processing,FALSE
-Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition,Natural Language Processing,FALSE
-Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,Natural Language Processing,FALSE
-Aspect Sentiment Classification with Document-level Sentiment Preference Modeling,Natural Language Processing,FALSE
-ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations,Natural Language Processing,FALSE
-"Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization",Natural Language Processing,FALSE
-Attentive Pooling with Learnable Norms for Text Representation,Natural Language Processing,FALSE
-Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics,Natural Language Processing,FALSE
-Automated Evaluation of Writing ? 50 Years and Counting,Natural Language Processing,FALSE
-Automatic Detection of Generated Text is Easiest when Humans are Fooled,Natural Language Processing,FALSE
-Automatic Generation of Citation Texts in Scholarly Papers: A Pilot Study,Natural Language Processing,FALSE
-Automatic Poetry Generation from Prosaic Text,Natural Language Processing,FALSE
-BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps,Natural Language Processing,FALSE
-Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards,Natural Language Processing,FALSE
-Balancing Training for Multilingual Neural Machine Translation,Natural Language Processing,FALSE
-"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",Natural Language Processing,FALSE
-Benchmarking Multimodal Regex Synthesis with Complex Structures,Natural Language Processing,FALSE
-BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance,Natural Language Processing,FALSE
-Beyond Accuracy: Behavioral Testing of NLP Models with CheckList,Natural Language Processing,TRUE
-Beyond Possession Existence: Duration and Co-Possession,Natural Language Processing,FALSE
-Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation,Natural Language Processing,FALSE
-Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences,Natural Language Processing,FALSE
-Biomedical Entity Representations with Synonym Marginalization,Natural Language Processing,FALSE
-Bipartite Flat-Graph Network for Nested Named Entity Recognition,Natural Language Processing,FALSE
-BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection,Natural Language Processing,FALSE
-BLEURT: Learning Robust Metrics for Text Generation,Natural Language Processing,FALSE
-Boosting Neural Machine Translation with Similar Translations,Natural Language Processing,FALSE
-Bootstrapping Techniques for Polysynthetic Morphological Analysis,Natural Language Processing,FALSE
-BPE-Dropout: Simple and Effective Subword Regularization,Natural Language Processing,FALSE
-Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information,Natural Language Processing,FALSE
-Bridging Anaphora Resolution as Question Answering,Natural Language Processing,FALSE
-Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation,Natural Language Processing,FALSE
-Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell,Natural Language Processing,FALSE
-Calibrating Structured Output Predictors for Natural Language Processing,Natural Language Processing,FALSE
-CamemBERT: a Tasty French Language Model,Natural Language Processing,FALSE
-Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction,Natural Language Processing,FALSE
-Can You Put it All Together: Evaluating Conversational Agents' Ability to Blend Skills,Natural Language Processing,FALSE
-CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation,Natural Language Processing,FALSE
-ChartDialogs: Plotting from Natural Language Instructions,Natural Language Processing,FALSE
-CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,Natural Language Processing,FALSE
-"Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",Natural Language Processing,TRUE
-Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset,Natural Language Processing,FALSE
-CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages,Natural Language Processing,FALSE
-CluHTM - Semantic Hierarchical Topic Modeling based on CluWords,Natural Language Processing,FALSE
-Code and Named Entity Recognition in StackOverflow,Natural Language Processing,FALSE
-CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning,Natural Language Processing,FALSE
-Compositionality and Generalization In Emergent Languages,Natural Language Processing,FALSE
-Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation,Natural Language Processing,FALSE
-Connecting Embeddings for Knowledge Graph Entity Typing,Natural Language Processing,FALSE
-Contextualized Weak Supervision for Text Classification,Natural Language Processing,FALSE
-Continual Relation Learning via Episodic Memory Activation and Reconsolidation,Natural Language Processing,FALSE
-Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation,Natural Language Processing,FALSE
-CorefQA: Coreference Resolution as Query-based Span Prediction,Natural Language Processing,FALSE
-Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation,Natural Language Processing,FALSE
-CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant,Natural Language Processing,FALSE
-Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus,Natural Language Processing,FALSE
-Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning,Natural Language Processing,FALSE
-Cross-Linguistic Syntactic Evaluation of Word Prediction Models,Natural Language Processing,FALSE
-Cross-media Structured Common Space for Multimedia Event Extraction,Natural Language Processing,FALSE
-Cross-modal Coherence Modeling for Caption Generation,Natural Language Processing,FALSE
-Cross-modal Language Generation using Pivot Stabilization for Web-scale Language Coverage,Natural Language Processing,FALSE
-Cross-Modality Relevance for Reasoning on Language and Vision,Natural Language Processing,FALSE
-Curriculum Learning for Natural Language Understanding,Natural Language Processing,FALSE
-Curriculum Pre-training for End-to-End Speech Translation,Natural Language Processing,FALSE
-Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight,Natural Language Processing,FALSE
-DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering,Natural Language Processing,FALSE
-Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting,Natural Language Processing,FALSE
-Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA,Natural Language Processing,FALSE
-Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification,Natural Language Processing,FALSE
-DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking,Natural Language Processing,FALSE
-Detecting Perceived Emotions in Hurricane Disasters,Natural Language Processing,FALSE
-Dialogue Coherence Assessment Without Explicit Dialogue Act Labels,Natural Language Processing,FALSE
-Dialogue-Based Relation Extraction,Natural Language Processing,FALSE
-Dice Loss for Data-imbalanced NLP Tasks,Natural Language Processing,FALSE
-Differentiable Window for Dynamic Local Attention,Natural Language Processing,FALSE
-Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event,Natural Language Processing,FALSE
-Discourse-Aware Neural Extractive Text Summarization,Natural Language Processing,FALSE
-Discrete Latent Variable Representations for Low-Resource Text Classification,Natural Language Processing,FALSE
-Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction,Natural Language Processing,FALSE
-Distilling Annotations via Active Imitation Learning,Natural Language Processing,FALSE
-Distilling Knowledge Learned in BERT for Text Generation,Natural Language Processing,FALSE
-Distinguish Confusing Law Articles for Legal Judgment Prediction,Natural Language Processing,FALSE
-Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness,Natural Language Processing,FALSE
-Diversifying Dialogue Generation with Non-Conversational Text,Natural Language Processing,FALSE
-Do Neural Language Models Show Preferences for Syntactic Formalisms?,Natural Language Processing,FALSE
-Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,Natural Language Processing,FALSE
-Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension,Natural Language Processing,FALSE
-Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain,Natural Language Processing,FALSE
-Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding,Natural Language Processing,FALSE
-Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,Natural Language Processing,FALSE
-Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,Natural Language Processing,TRUE
-DoQA - Accessing Domain-Specific FAQs via Conversational QA,Natural Language Processing,FALSE
-Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation,Natural Language Processing,FALSE
-DRTS Parsing with Structure-Aware Encoding and Decoding,Natural Language Processing,FALSE
-DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,Natural Language Processing,FALSE
-Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,Natural Language Processing,FALSE
-Dynamic Online Conversation Recommendation,Natural Language Processing,FALSE
-Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation,Natural Language Processing,FALSE
-"ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction",Natural Language Processing,FALSE
-Effective Estimation of Deep Generative Language Models,Natural Language Processing,FALSE
-Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction,Natural Language Processing,FALSE
-Efficient Constituency Parsing by Pointing,Natural Language Processing,FALSE
-Efficient Dialogue State Tracking by Selectively Overwriting Memory,Natural Language Processing,FALSE
-Efficient Pairwise Annotation of Argument Quality,Natural Language Processing,FALSE
-Efficient Second-Order TreeCRF for Neural Dependency Parsing,Natural Language Processing,FALSE
-Emergence of Syntax Needs Minimal Supervision,Natural Language Processing,FALSE
-Emerging Cross-lingual Structure in Pretrained Language Models,Natural Language Processing,FALSE
-Empower Entity Set Expansion via Language Model Probing,Natural Language Processing,FALSE
-Empowering Active Learning to Jointly Optimize System and User Demands,Natural Language Processing,FALSE
-End-to-End Bias Mitigation by Modelling Biases in Corpora,Natural Language Processing,FALSE
-End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,Natural Language Processing,FALSE
-End-to-End Neural Word Alignment Outperforms GIZA++,Natural Language Processing,FALSE
-Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension,Natural Language Processing,FALSE
-Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge,Natural Language Processing,FALSE
-ERASER: A Benchmark to Evaluate Rationalized NLP Models,Natural Language Processing,FALSE
-ESPRIT: Explaining Solutions to Physical Reasoning Tasks,Natural Language Processing,FALSE
-Estimating predictive uncertainty for rumour verification models,Natural Language Processing,FALSE
-Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks,Natural Language Processing,FALSE
-Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples,Natural Language Processing,FALSE
-Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?,Natural Language Processing,FALSE
-Evaluating Explanation Methods for Neural Machine Translation,Natural Language Processing,FALSE
-Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder,Natural Language Processing,FALSE
-"Exact yet Efficient Graph Parsing, Bi-directional Locality and the Constructivist Hypothesis",Natural Language Processing,FALSE
-Examining Citations of Natural Language Processing Literature,Natural Language Processing,FALSE
-Examining the State-of-the-Art in News Timeline Summarization,Natural Language Processing,FALSE
-Exclusive Hierarchical Decoding for Deep Keyphrase Generation,Natural Language Processing,FALSE
-Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen,Natural Language Processing,FALSE
-Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,Natural Language Processing,FALSE
-Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading,Natural Language Processing,FALSE
-Explicit Semantic Decomposition for Definition Generation,Natural Language Processing,FALSE
-Exploiting Syntactic Structure for Better Language Modeling: A Syntactic Distance Approach,Natural Language Processing,FALSE
-Exploiting the Syntax-Model Consistency for Neural Relation Extraction,Natural Language Processing,FALSE
-Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer,Natural Language Processing,FALSE
-Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,Natural Language Processing,FALSE
-"Extracting Headless MWEs from Dependency Parse Trees: Parsing, Tagging, and Joint Modeling Approaches",Natural Language Processing,FALSE
-Extractive Summarization as Text Matching,Natural Language Processing,FALSE
-Facet-Aware Evaluation for Extractive Summarization,Natural Language Processing,FALSE
-Fact-based Text Editing,Natural Language Processing,FALSE
-Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning,Natural Language Processing,FALSE
-Fast and Accurate Non-Projective Dependency Tree Linearization,Natural Language Processing,FALSE
-FastBERT: a Self-distilling BERT with Adaptive Inference Time,Natural Language Processing,FALSE
-Feature Projection for Improved Text Classification,Natural Language Processing,FALSE
-FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,Natural Language Processing,FALSE
-Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network,Natural Language Processing,FALSE
-Finding Universal Grammatical Relations in Multilingual BERT,Natural Language Processing,FALSE
-Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences,Natural Language Processing,FALSE
-Fine-grained Fact Verification with Kernel Graph Attention Network,Natural Language Processing,FALSE
-Fine-grained Interest Matching for Neural News Recommendation,Natural Language Processing,FALSE
-Fluent Response Generation for Conversational Question Answering,Natural Language Processing,FALSE
-From Arguments to Key Points: Towards Automatic Argument Summarization,Natural Language Processing,FALSE
-From English to Code-Switching: Transfer Learning with Strong Morphological Clues,Natural Language Processing,FALSE
-From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,Natural Language Processing,FALSE
-From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains,Natural Language Processing,FALSE
-Frugal Paradigm Completion,Natural Language Processing,FALSE
-Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection,Natural Language Processing,FALSE
-GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,Natural Language Processing,FALSE
-Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer,Natural Language Processing,FALSE
-Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations,Natural Language Processing,FALSE
-Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,Natural Language Processing,FALSE
-Generalized Entropy Regularization or: There's Nothing Special about Label Smoothing,Natural Language Processing,FALSE
-Generalizing Natural Language Analysis through Span-relation Representations,Natural Language Processing,FALSE
-"Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation",Natural Language Processing,FALSE
-Generating Counter Narratives against Online Hate Speech: Data and Strategies,Natural Language Processing,FALSE
-Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs,Natural Language Processing,FALSE
-Generating Fact Checking Explanations,Natural Language Processing,FALSE
-Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection,Natural Language Processing,FALSE
-Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy,Natural Language Processing,FALSE
-Generative Semantic Hashing Enhanced via Boltzmann Machines,Natural Language Processing,FALSE
-GLUECoS: An Evaluation Benchmark for Code-Switched NLP,Natural Language Processing,FALSE
-GoEmotions: A Dataset of Fine-Grained Emotions,Natural Language Processing,FALSE
-Good-Enough Compositional Data Augmentation,Natural Language Processing,FALSE
-Graph Neural News Recommendation with Unsupervised Preference Disentanglement,Natural Language Processing,FALSE
-Graph-to-Tree Learning for Solving Math Word Problems,Natural Language Processing,FALSE
-Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,Natural Language Processing,FALSE
-Grounding Conversations with Improvised Dialogues,Natural Language Processing,FALSE
-Guiding Variational Response Generator to Exploit Persona,Natural Language Processing,FALSE
-Handling Rare Entities for Neural Sequence Labeling,Natural Language Processing,FALSE
-Hard-Coded Gaussian Attention for Neural Machine Translation,Natural Language Processing,FALSE
-Harnessing the linguistic signal to predict scalar inferences,Natural Language Processing,FALSE
-Harvesting and Refining Question-Answer Pairs for Unsupervised QA,Natural Language Processing,FALSE
-HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,Natural Language Processing,FALSE
-"He said ""who's gonna take care of your children when you are at ACL?"": Reported Sexist Acts are Not Sexist",Natural Language Processing,FALSE
-Heterogeneous Graph Neural Networks for Extractive Document Summarization,Natural Language Processing,FALSE
-Heterogeneous Graph Transformer for Graph-to-Sequence Learning,Natural Language Processing,FALSE
-Hierarchical Entity Typing via Multi-level Learning to Rank,Natural Language Processing,FALSE
-Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention,Natural Language Processing,FALSE
-Hierarchy-Aware Global Model for Hierarchical Text Classification,Natural Language Processing,FALSE
-Highway Transformer: Self-Gating Enhanced Self-Attentive Networks,Natural Language Processing,FALSE
-Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation,Natural Language Processing,FALSE
-History for Visual Dialog: Do we really need it?,Natural Language Processing,FALSE
-Hooks in the Headline: Learning to Generate Headlines with Controlled Styles,Natural Language Processing,FALSE
-How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems,Natural Language Processing,FALSE
-How does BERT's attention change when you fine-tune? An analysis methodology and a case study in negation scope,Natural Language Processing,FALSE
-How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence,Natural Language Processing,FALSE
-How Does Selective Mechanism Improve Self-Attention Networks?,Natural Language Processing,FALSE
-How to Ask Good Questions? Try to Leverage Paraphrases,Natural Language Processing,FALSE
-Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?,Natural Language Processing,FALSE
-Hyperbolic Capsule Networks for Multi-Label Classification,Natural Language Processing,FALSE
-HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding,Natural Language Processing,FALSE
-Image-Chat: Engaging Grounded Conversations,Natural Language Processing,FALSE
-IMoJIE: Iterative Memory-Based Joint Open Information Extraction,Natural Language Processing,FALSE
-Improved Natural Language Generation via Loss Truncation,Natural Language Processing,FALSE
-Improving Adversarial Text Generation by Modeling the Distant Future,Natural Language Processing,FALSE
-Improving Chinese Word Segmentation with Wordhood Memory Networks,Natural Language Processing,FALSE
-Improving Disentangled Text Representation Learning with Information-Theoretic Guidance,Natural Language Processing,FALSE
-Improving Disfluency Detection by Self-Training a Self-Attentive Model,Natural Language Processing,FALSE
-Improving Event Detection via Open-domain Trigger Knowledge,Natural Language Processing,FALSE
-Improving Image Captioning Evaluation by Considering Inter References Variance,Natural Language Processing,FALSE
-Improving Image Captioning with Better Use of Caption,Natural Language Processing,FALSE
-Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation,Natural Language Processing,FALSE
-Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,Natural Language Processing,FALSE
-Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer,Natural Language Processing,FALSE
-Improving Neural Machine Translation with Soft Template Prediction,Natural Language Processing,FALSE
-Improving Segmentation for Technical Support Problems,Natural Language Processing,FALSE
-Improving Transformer Models by Reordering their Sublayers,Natural Language Processing,FALSE
-Improving Truthfulness of Headline Generation,Natural Language Processing,FALSE
-In Layman's Terms: Semi-Open Relation Extraction from Scientific Texts,Natural Language Processing,FALSE
-"In Neural Machine Translation, What Does Transfer Learning Transfer?",Natural Language Processing,FALSE
-Inflecting when there's no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals,Natural Language Processing,FALSE
-Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models,Natural Language Processing,FALSE
-Information-Theoretic Probing for Linguistic Structure,Natural Language Processing,FALSE
-INFOTABS: Inference on Tables as Semi-structured Data,Natural Language Processing,FALSE
-Injecting Numerical Reasoning Skills into Language Models,Natural Language Processing,FALSE
-INSET: Sentence Infilling with INter-SEntential Transformer,Natural Language Processing,FALSE
-Integrating Multimodal Information in Large Pretrained Transformers,Natural Language Processing,FALSE
-Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection,Natural Language Processing,FALSE
-Interactive Classification by Asking Informative Questions,Natural Language Processing,FALSE
-Interactive Construction of User-Centric Dictionary for Text Analytics,Natural Language Processing,FALSE
-Interactive Machine Comprehension with Information Seeking Agents,Natural Language Processing,FALSE
-Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?,Natural Language Processing,FALSE
-Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings,Natural Language Processing,FALSE
-Investigating the effect of auxiliary objectives for the automated grading of learner English speech transcriptions,Natural Language Processing,FALSE
-Investigating Word-Class Distributions in Word Vector Spaces,Natural Language Processing,FALSE
-iSarcasm: A Dataset of Intended Sarcasm,Natural Language Processing,FALSE
-"It Takes Two to Lie: One to Lie, and One to Listen",Natural Language Processing,FALSE
-It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations,Natural Language Processing,FALSE
-Iterative Edit-Based Unsupervised Sentence Simplification,Natural Language Processing,FALSE
-Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge,Natural Language Processing,FALSE
-"Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging",Natural Language Processing,FALSE
-Joint Modelling of Emotion and Abusive Language Detection,Natural Language Processing,FALSE
-Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization,Natural Language Processing,FALSE
-Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation,Natural Language Processing,FALSE
-KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation,Natural Language Processing,FALSE
-KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis,Natural Language Processing,FALSE
-KLEJ: Comprehensive Benchmark for Polish Language Understanding,Natural Language Processing,FALSE
-Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation,Natural Language Processing,FALSE
-Knowledge Graph Embedding Compression,Natural Language Processing,FALSE
-Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward,Natural Language Processing,FALSE
-Language (Re)modelling: Towards Embodied Language Understanding,Natural Language Processing,FALSE
-Language (technology) is power: The need to be explicit about NLP harms,Natural Language Processing,FALSE
-Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese,Natural Language Processing,FALSE
-Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions,Natural Language Processing,FALSE
-Large Scale Multi-Actor Generative Dialog Modeling,Natural Language Processing,FALSE
-Learning a Multi-Domain Curriculum for Neural Machine Translation,Natural Language Processing,FALSE
-Learning and Evaluating Emotion Lexicons for 91 Languages,Natural Language Processing,FALSE
-Learning Architectures from an Extended Search Space for Language Modeling,Natural Language Processing,FALSE
-Learning Constraints for Structured Prediction Using Rectifier Networks,Natural Language Processing,FALSE
-Learning Dialog Policies from Weak Demonstrations,Natural Language Processing,FALSE
-Learning Efficient Dialogue Policy from Demonstrations through Shaping,Natural Language Processing,FALSE
-"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts",Natural Language Processing,FALSE
-Learning Source Phrase Representations for Neural Machine Translation,Natural Language Processing,FALSE
-Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction,Natural Language Processing,FALSE
-Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,Natural Language Processing,FALSE
-Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks,Natural Language Processing,FALSE
-Learning to Deceive with Attention-Based Explanations,Natural Language Processing,FALSE
-Learning to execute instructions in a Minecraft dialogue,Natural Language Processing,FALSE
-Learning to Faithfully Rationalize by Construction,Natural Language Processing,FALSE
-Learning to Identify Follow-Up Questions in Conversational Question Answering,Natural Language Processing,FALSE
-Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation,Natural Language Processing,FALSE
-Learning to Segment Actions from Observation and Narration,Natural Language Processing,FALSE
-Learning to Update Natural Language Comments Based on Code Changes,Natural Language Processing,FALSE
-Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context,Natural Language Processing,FALSE
-Leveraging Graph to Improve Abstractive Multi-Document Summarization,Natural Language Processing,FALSE
-Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks,Natural Language Processing,FALSE
-Location Attention for Extrapolation to Longer Sequences,Natural Language Processing,FALSE
-Logical Natural Language Generation from Open-Domain Tables,Natural Language Processing,FALSE
-LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network,Natural Language Processing,FALSE
-Low-Dimensional Hyperbolic Knowledge Graph Embeddings,Natural Language Processing,FALSE
-Low-Resource Generation of Multi-hop Reasoning Questions,Natural Language Processing,FALSE
-Machine Reading of Historical Events,Natural Language Processing,FALSE
-Mapping Natural Language Instructions to Mobile UI Action Sequences,Natural Language Processing,FALSE
-MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning,Natural Language Processing,FALSE
-Masked Language Model Scoring,Natural Language Processing,FALSE
-"MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",Natural Language Processing,FALSE
-Max-Margin Incremental CCG Parsing,Natural Language Processing,FALSE
-Measuring Forecasting Skill from Text,Natural Language Processing,FALSE
-Meta-Reinforced Multi-Domain State Generator for Dialogue Systems,Natural Language Processing,FALSE
-MIE: A Medical Information Extractor towards Medical Dialogues,Natural Language Processing,FALSE
-Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance,Natural Language Processing,FALSE
-MIND: A Large-scale Dataset for News Recommendation,Natural Language Processing,FALSE
-MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification,Natural Language Processing,FALSE
-MLQA: Evaluating Cross-lingual Extractive Question Answering,Natural Language Processing,FALSE
-MMPE: A Multi-Modal Interface for Post-Editing Machine Translation,Natural Language Processing,FALSE
-MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices,Natural Language Processing,FALSE
-Modeling Code-Switch Languages Using Bilingual Parallel Corpus,Natural Language Processing,FALSE
-Modeling Morphological Typology for Unsupervised Learning of Language Morphology,Natural Language Processing,FALSE
-Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis,Natural Language Processing,FALSE
-More Diverse Dialogue Datasets via Diversity-Informed Data Collection,Natural Language Processing,FALSE
-Moving Down the Long Tail of Word Sense Disambiguation with Gloss Informed Bi-encoders,Natural Language Processing,FALSE
-Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning,Natural Language Processing,FALSE
-Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition,Natural Language Processing,FALSE
-Multi-Cell Compositional LSTM for NER Domain Adaptation,Natural Language Processing,FALSE
-Multidirectional Associative Optimization of Function-Specific Word Representations,Natural Language Processing,FALSE
-Multi-Domain Dialogue Acts and Response Co-Generation,Natural Language Processing,FALSE
-Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference,Natural Language Processing,FALSE
-Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing,Natural Language Processing,FALSE
-Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization,Natural Language Processing,FALSE
-Multi-Hypothesis Machine Translation Evaluation,Natural Language Processing,FALSE
-Multi-Label and Multilingual News Framing Analysis,Natural Language Processing,FALSE
-Multimodal Neural Graph Memory Networks for Visual Question Answering,Natural Language Processing,FALSE
-MultiQT: Multimodal learning for real-time question tracking in speech,Natural Language Processing,FALSE
-Multiscale Collaborative Deep Models for Neural Machine Translation,Natural Language Processing,FALSE
-Multi-Sentence Argument Linking,Natural Language Processing,FALSE
-Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,Natural Language Processing,FALSE
-MuTual: A Dataset for Multi-Turn Dialogue Reasoning,Natural Language Processing,FALSE
-Named Entity Recognition without Labelled Data: A Weak Supervision Approach,Natural Language Processing,FALSE
-NAT: Noise-Aware Training for Robust Neural Sequence Labeling,Natural Language Processing,FALSE
-Negative Training for Neural Dialogue Response Generation,Natural Language Processing,FALSE
-Neighborhood Matching Network for Entity Alignment,Natural Language Processing,FALSE
-NeuInfer: Knowledge Inference on N-ary Facts,Natural Language Processing,FALSE
-Neural CRF Model for Sentence Alignment in Text Simplification,Natural Language Processing,FALSE
-Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence,Natural Language Processing,FALSE
-Neural Generation of Dialogue Response Timings,Natural Language Processing,FALSE
-Neural Mixed Counting Models for Dispersed Topic Discovery,Natural Language Processing,FALSE
-Neural Reranking for Dependency Parsing: An Evaluation,Natural Language Processing,FALSE
-Neural Syntactic Preordering for Controlled Paraphrase Generation,Natural Language Processing,FALSE
-Neural Topic Modeling with Bidirectional Adversarial Training,Natural Language Processing,FALSE
-NILE : Natural Language Inference with Faithful Natural Language Explanations,Natural Language Processing,FALSE
-Norm-Based Curriculum Learning for Neural Machine Translation,Natural Language Processing,FALSE
-Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses,Natural Language Processing,FALSE
-Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,Natural Language Processing,FALSE
-Obtaining Faithful Interpretations from Compositional Neural Networks,Natural Language Processing,FALSE
-On Faithfulness and Factuality in Abstractive Summarization,Natural Language Processing,FALSE
-On the Cross-lingual Transferability of Monolingual Representations,Natural Language Processing,FALSE
-On the Encoder-Decoder Incompatibility in Variational Text Modeling and Beyond,Natural Language Processing,FALSE
-On The Evaluation of Machine Translation SystemsTrained With Back-Translation,Natural Language Processing,FALSE
-On the Inference Calibration of Neural Machine Translation,Natural Language Processing,FALSE
-On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation,Natural Language Processing,FALSE
-On the Robustness of Language Encoders against Grammatical Errors,Natural Language Processing,FALSE
-One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases,Natural Language Processing,FALSE
-Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports,Natural Language Processing,FALSE
-Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding,Natural Language Processing,FALSE
-Out of the Echo Chamber: Detecting Countering Debate Speeches,Natural Language Processing,FALSE
-ParaCrawl: Web-Scale Acquisition of Parallel Corpora,Natural Language Processing,FALSE
-Parallel Corpus Filtering via Pre-trained Language Models,Natural Language Processing,FALSE
-Paraphrase Augmented Task-Oriented Dialog Generation,Natural Language Processing,FALSE
-Paraphrase Generation by Learning How to Edit from Samples,Natural Language Processing,FALSE
-Parsing into Variable-in-situ Logico-Semantic Graphs,Natural Language Processing,FALSE
-Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT,Natural Language Processing,FALSE
-PeTra: A Sparsely Supervised Memory Model for People Tracking,Natural Language Processing,FALSE
-Phone Features Improve Speech Translation,Natural Language Processing,FALSE
-Phonetic and Visual Priors for Decipherment of Informal Romanization,Natural Language Processing,FALSE
-PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable,Natural Language Processing,FALSE
-Politeness Transfer: A Tag and Generate Approach,Natural Language Processing,FALSE
-Posterior Control of Blackbox Generation,Natural Language Processing,FALSE
-Predicting Declension Class from Form and Meaning,Natural Language Processing,FALSE
-Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts,Natural Language Processing,FALSE
-Predicting Performance for Natural Language Processing Tasks,Natural Language Processing,FALSE
-Predicting the Focus of Negation: Model and Error Analysis,Natural Language Processing,FALSE
-Predicting the Growth of Morphological Families from Social and Linguistic Factors,Natural Language Processing,FALSE
-Predicting the Topical Stance and Political Leaning of Media using Tweets,Natural Language Processing,FALSE
-Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview,Natural Language Processing,FALSE
-Premise Selection in Natural Language Mathematical Texts,Natural Language Processing,FALSE
-Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders,Natural Language Processing,FALSE
-Pre-training Is (Almost) All You Need: An Application to Commonsense Reasoning,Natural Language Processing,FALSE
-Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models,Natural Language Processing,FALSE
-Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering,Natural Language Processing,FALSE
-Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order,Natural Language Processing,FALSE
-Probing for referential information in language models,Natural Language Processing,FALSE
-Probing Linguistic Features of Sentence-Level Representations in Relation Extraction,Natural Language Processing,FALSE
-Probing Linguistic Systematicity,Natural Language Processing,FALSE
-Programming in Natural Language with fuSE: Synthesizing Methods from Spoken Utterances Using Deep Natural Language Understanding,Natural Language Processing,FALSE
-PuzzLing Machines: A Challenge on Learning From Small Data,Natural Language Processing,FALSE
-Pyramid: A Layered Model for Nested Named Entity Recognition,Natural Language Processing,FALSE
-QuASE: Question-Answer Driven Sentence Encoding,Natural Language Processing,FALSE
-"R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge",Natural Language Processing,FALSE
-Rationalizing Medical Relation Prediction from Corpus-level Statistics,Natural Language Processing,FALSE
-Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport,Natural Language Processing,FALSE
-RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,Natural Language Processing,FALSE
-Reasoning Over Semantic-Level Graph for Fact Checking,Natural Language Processing,FALSE
-Reasoning with Latent Structure Refinement for Document-Level Relation Extraction,Natural Language Processing,FALSE
-Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association,Natural Language Processing,FALSE
-(Re)construing Meaning in NLP,Natural Language Processing,FALSE
-Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension,Natural Language Processing,FALSE
-Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment,Natural Language Processing,FALSE
-Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem,Natural Language Processing,FALSE
-Refer360�� : A Referring Expression Recognition Dataset in 360° Images,Natural Language Processing,FALSE
-ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding,Natural Language Processing,FALSE
-Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents,Natural Language Processing,FALSE
-Relational Graph Attention Network for Aspect-based Sentiment Analysis,Natural Language Processing,FALSE
-Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis,Natural Language Processing,FALSE
-Representation Learning for Information Extraction from Form-like Documents,Natural Language Processing,FALSE
-Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation,Natural Language Processing,FALSE
-Review-based Question Generation with Adaptive Instance Transfer and Augmentation,Natural Language Processing,FALSE
-Revisiting the Context Window for Cross-lingual Word Embeddings,Natural Language Processing,FALSE
-Rigid Formats Controlled Text Generation,Natural Language Processing,FALSE
-RikiNet: Reading Wikipedia Pages for Natural Question Answering,Natural Language Processing,FALSE
-Robust Encodings: A Framework for Combating Adversarial Typos,Natural Language Processing,FALSE
-Roles and Utilization of Attention Heads in Transformer-based Neural Language Models,Natural Language Processing,FALSE
-S2ORC: The Semantic Scholar Open Research Corpus,Natural Language Processing,FALSE
-SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing,Natural Language Processing,FALSE
-SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations,Natural Language Processing,FALSE
-schuBERT: Optimizing Elements of BERT,Natural Language Processing,FALSE
-SciREX: A Challenge Dataset for Document-Level Information Extraction,Natural Language Processing,FALSE
-Screenplay Summarization Using Latent Narrative Structure,Natural Language Processing,FALSE
-ScriptWriter: Narrative-Guided Script Generation,Natural Language Processing,FALSE
-SEEK: Segmented Embedding of Knowledge Graphs,Natural Language Processing,FALSE
-Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation,Natural Language Processing,FALSE
-Selective Question Answering under Domain Shift,Natural Language Processing,FALSE
-Semantic Graphs for Generating Deep Questions,Natural Language Processing,FALSE
-Semantic Parsing for English as a Second Language,Natural Language Processing,FALSE
-Semantic Scaffolds for Pseudocode-to-Code Generation,Natural Language Processing,FALSE
-Semi-supervised Contextual Historical Text Normalization,Natural Language Processing,FALSE
-Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation,Natural Language Processing,FALSE
-Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders,Natural Language Processing,FALSE
-SenseBERT: Driving Some Sense into BERT,Natural Language Processing,FALSE
-SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics,Natural Language Processing,FALSE
-"Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis",Natural Language Processing,FALSE
-SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling,Natural Language Processing,FALSE
-Should All Cross-Lingual Embeddings Speak English?,Natural Language Processing,FALSE
-Similarity Analysis of Contextual Word Representation Models,Natural Language Processing,FALSE
-"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",Natural Language Processing,FALSE
-Simplify the Usage of Lexicon in Chinese NER,Natural Language Processing,FALSE
-SimulSpeech: End-to-End Simultaneous Speech to Text Translation,Natural Language Processing,FALSE
-Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language,Natural Language Processing,FALSE
-SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis,Natural Language Processing,FALSE
-Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network,Natural Language Processing,FALSE
-SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization,Natural Language Processing,FALSE
-Social Bias Frames: Reasoning about Social and Power Implications of Language,Natural Language Processing,FALSE
-Sources of Transfer in Multilingual Named Entity Recognition,Natural Language Processing,FALSE
-Span Selection Pre-training for Question Answering,Natural Language Processing,FALSE
-Span-based Localizing Network for Natural Language Video Localization,Natural Language Processing,FALSE
-SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction,Natural Language Processing,FALSE
-Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,Natural Language Processing,FALSE
-Speaker Sensitive Response Evaluation Model,Natural Language Processing,FALSE
-Speakers enhance contextually confusable words,Natural Language Processing,FALSE
-SPECTER: Document-level Representation Learning using Citation-informed Transformers,Natural Language Processing,FALSE
-Speech Translation and the End-to-End Promise: Taking Stock of Where We Are,Natural Language Processing,FALSE
-SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check,Natural Language Processing,FALSE
-Spelling Error Correction with Soft-Masked BERT,Natural Language Processing,FALSE
-Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words,Natural Language Processing,FALSE
-STARC: Structured Annotations for Reading Comprehension,Natural Language Processing,FALSE
-"Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization",Natural Language Processing,FALSE
-Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,Natural Language Processing,FALSE
-Structural Information Preserving for Graph-to-Text Generation,Natural Language Processing,FALSE
-Structured Tuning for Semantic Role Labeling,Natural Language Processing,FALSE
-Structure-Level Knowledge Distillation For Multilingual Sequence Labeling,Natural Language Processing,FALSE
-Suspense in Short Stories is Predicted By Uncertainty Reduction over Neural Story Representation,Natural Language Processing,FALSE
-Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction,Natural Language Processing,FALSE
-Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation,Natural Language Processing,FALSE
-Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks,Natural Language Processing,FALSE
-TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,Natural Language Processing,FALSE
-TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task,Natural Language Processing,FALSE
-TAG : Type Auxiliary Guiding for Code Comment Generation,Natural Language Processing,FALSE
-Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics,Natural Language Processing,TRUE
-TaPas: Weakly Supervised Table Parsing via Pre-training,Natural Language Processing,FALSE
-Target Inference in Argument Conclusion Generation,Natural Language Processing,FALSE
-Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer,Natural Language Processing,FALSE
-Tchebycheff Procedure for Multi-task Text Classification,Natural Language Processing,FALSE
-Temporal Common Sense Acquisition with Minimal Supervision,Natural Language Processing,FALSE
-Temporally-Informed Analysis of Named Entity Recognition,Natural Language Processing,FALSE
-Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates,Natural Language Processing,FALSE
-Text-Based Ideal Points,Natural Language Processing,FALSE
-That is a Known Lie: Detecting Previously Fact-Checked Claims,Natural Language Processing,FALSE
-"""The Boating Store Had Its Best Sail Ever"": Pronunciation-attentive Contextualized Pun Recognition",Natural Language Processing,FALSE
-The Cascade Transformer: an Application for Efficient Answer Sentence Selection,Natural Language Processing,FALSE
-The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,Natural Language Processing,FALSE
-The Paradigm Discovery Problem,Natural Language Processing,FALSE
-The Right Tool for the Job: Matching Model and Instance Complexities,Natural Language Processing,FALSE
-The Sensitivity of Language Models and Humans to Winograd Schema Perturbations,Natural Language Processing,FALSE
-The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,Natural Language Processing,FALSE
-The State and Fate of Linguistic Diversity and Inclusion in the NLP World,Natural Language Processing,FALSE
-The Summary Loop: Learning to Write Abstractive Summaries Without Examples,Natural Language Processing,FALSE
-The TechQA Dataset,Natural Language Processing,FALSE
-The Unstoppable Rise of Computational Linguistics in Deep Learning,Natural Language Processing,FALSE
-To Boldly Query What No One Has Annotated Before? The Frontiers of Corpus Querying,Natural Language Processing,FALSE
-"To Test Machine Comprehension, Start by Defining Comprehension",Natural Language Processing,FALSE
-Toward Gender-Inclusive Coreference Resolution,Natural Language Processing,FALSE
-Towards Conversational Recommendation over Multi-Type Dialogs,Natural Language Processing,FALSE
-Towards Debiasing Sentence Representations,Natural Language Processing,FALSE
-Towards Emotion-aided Multi-modal Dialogue Act Classification,Natural Language Processing,FALSE
-Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,Natural Language Processing,FALSE
-Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation,Natural Language Processing,FALSE
-Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs,Natural Language Processing,FALSE
-Towards Robustifying NLI Models Against Lexical Dataset Biases,Natural Language Processing,FALSE
-Towards Transparent and Explainable Attention Models,Natural Language Processing,FALSE
-Towards Understanding Gender Bias in Relation Extraction,Natural Language Processing,FALSE
-Towards Unsupervised Language Understanding and Generation by Joint Dual Learning,Natural Language Processing,FALSE
-Toxicity Detection: Does Context Really Matter?,Natural Language Processing,FALSE
-Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction,Natural Language Processing,FALSE
-Transition-based Semantic Dependency Parsing with Pointer Networks,Natural Language Processing,FALSE
-"Translationese as a Language in ""Multilingual"" NMT",Natural Language Processing,FALSE
-TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition,Natural Language Processing,FALSE
-TVQA+: Spatio-Temporal Grounding for Video Question Answering,Natural Language Processing,FALSE
-TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories,Natural Language Processing,FALSE
-Uncertainty-Aware Curriculum Learning for Neural Machine Translation,Natural Language Processing,FALSE
-Understanding Attention for Text Classification,Natural Language Processing,FALSE
-Understanding the Language of Political Agreement and Disagreement in Legislative Texts,Natural Language Processing,FALSE
-Universal Decompositional Semantic Parsing,Natural Language Processing,FALSE
-Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification,Natural Language Processing,FALSE
-Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering,Natural Language Processing,FALSE
-Unsupervised Cross-lingual Representation Learning at Scale,Natural Language Processing,FALSE
-Unsupervised Domain Clusters in Pretrained Language Models,Natural Language Processing,FALSE
-Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,Natural Language Processing,FALSE
-Unsupervised Morphological Paradigm Completion,Natural Language Processing,FALSE
-Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,Natural Language Processing,FALSE
-Unsupervised Opinion Summarization as Copycat-Review Generation,Natural Language Processing,FALSE
-Unsupervised Opinion Summarization with Noising and Denoising,Natural Language Processing,FALSE
-Unsupervised Paraphrasing by Simulated Annealing,Natural Language Processing,FALSE
-USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation,Natural Language Processing,FALSE
-Weight Poisoning Attacks on Pretrained Models,Natural Language Processing,FALSE
-What are the Goals of Distributional Semantics?,Natural Language Processing,FALSE
-What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks,Natural Language Processing,FALSE
-What Question Answering can Learn from Trivia Nerds,Natural Language Processing,FALSE
-What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context,Natural Language Processing,FALSE
-When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,Natural Language Processing,FALSE
-"""Who said it, and Why?"" Provenance for Natural Language Claims",Natural Language Processing,FALSE
-WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge,Natural Language Processing,FALSE
-Word-level Textual Adversarial Attacking as Combinatorial Optimization,Natural Language Processing,FALSE
-XtremeDistil: Multi-stage Distillation for Massive Multilingual Models,Natural Language Processing,FALSE
-You Impress Me: Dialogue Generation via Mutual Persona Perception,Natural Language Processing,FALSE
-Zero-shot Text Classification via Reinforced Self-training,Natural Language Processing,FALSE
-Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,Natural Language Processing,FALSE
-ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages,Natural Language Processing,FALSE
-A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle,Natural Language Processing,FALSE
-A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers,Natural Language Processing,FALSE
-A Frame-based Sentence Representation for Machine Reading Comprehension,Natural Language Processing,FALSE
-A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal,Natural Language Processing,FALSE
-A Multi-Perspective Architecture for Semantic Code Search,Natural Language Processing,FALSE
-A negative case analysis of visual grounding methods for VQA,Natural Language Processing,FALSE
-A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing,Natural Language Processing,FALSE
-A Re-evaluation of Knowledge Graph Completion Methods,Natural Language Processing,FALSE
-A Relational Memory-based Embedding Model for Triple Classification and Search Personalization,Natural Language Processing,FALSE
-A Relaxed Matching Procedure for Unsupervised BLI,Natural Language Processing,FALSE
-A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation,Natural Language Processing,FALSE
-A Simple and Effective Unified Encoder for Document-Level Machine Translation,Natural Language Processing,FALSE
-A Tale of a Probe and a Parser,Natural Language Processing,FALSE
-A Three-Parameter Rank-Frequency Relation in Natural Languages,Natural Language Processing,FALSE
-A Transformer-based Approach for Source Code Summarization,Natural Language Processing,FALSE
-A Two-Stage Masked LM Method for Term Set Expansion,Natural Language Processing,FALSE
-A Two-Step Approach for Implicit Event Argument Detection,Natural Language Processing,FALSE
-Active Learning for Coreference Resolution using Discrete Annotation,Natural Language Processing,FALSE
-An Empirical Comparison of Unsupervised Constituency Parsing Methods,Natural Language Processing,FALSE
-Analyzing the Persuasive Effect of Style in News Editorial Argumentation,Natural Language Processing,FALSE
-Are we Estimating or Guesstimating Translation Quality?,Natural Language Processing,FALSE
-Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization,Natural Language Processing,FALSE
-Autoencoding Keyword Correlation Graph for Document Clustering,Natural Language Processing,FALSE
-Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring,Natural Language Processing,FALSE
-Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model,Natural Language Processing,FALSE
-Bayesian Hierarchical Words Representation Learning,Natural Language Processing,FALSE
-Benefits of Intermediate Annotations in Reading Comprehension,Natural Language Processing,FALSE
-Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning,Natural Language Processing,FALSE
-Character-Level Translation with Self-attention,Natural Language Processing,FALSE
-ClarQ: A large-scale and diverse dataset for Clarification Question Generation,Natural Language Processing,FALSE
-Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction,Natural Language Processing,FALSE
-Clinical Concept Linking with Contextualized Neural Representations,Natural Language Processing,FALSE
-Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain,Natural Language Processing,FALSE
-Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling,Natural Language Processing,FALSE
-"Code-switching patterns can be an effective route to improve performance of downstream NLP applications: A case study of humour, sarcasm and hate speech detection",Natural Language Processing,FALSE
-Composing Elementary Discourse Units in Abstractive Summarization,Natural Language Processing,FALSE
-Content Word Aware Neural Machine Translation,Natural Language Processing,FALSE
-Contextual Embeddings: When Are They Worth It?,Natural Language Processing,FALSE
-Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns,Natural Language Processing,FALSE
-Contextualized Sparse Representations for Real-Time Open-Domain Question Answering,Natural Language Processing,FALSE
-Contextualizing Hate Speech Classifiers with Post-hoc Explanation,Natural Language Processing,FALSE
-Contrastive Self-Supervised Learning for Commonsense Reasoning,Natural Language Processing,FALSE
-Controlled Crowdsourcing for High-Quality QA-SRL Annotation,Natural Language Processing,FALSE
-Conversational Word Embedding for Retrieval-Based Dialog System,Natural Language Processing,FALSE
-Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis,Natural Language Processing,FALSE
-Crossing Variational Autoencoders for Answer Retrieval,Natural Language Processing,FALSE
-DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference,Natural Language Processing,FALSE
-Designing Precise and Robust Dialogue Response Evaluators,Natural Language Processing,FALSE
-Dialogue State Tracking with Explicit Slot Connection Modeling,Natural Language Processing,FALSE
-Do Transformers Need Deep Long-Range Memory?,Natural Language Processing,FALSE
-Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods,Natural Language Processing,FALSE
-Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation,Natural Language Processing,FALSE
-Don't Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction,Natural Language Processing,FALSE
-Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing,Natural Language Processing,FALSE
-Dynamic Memory Induction Networks for Few-Shot Text Classification,Natural Language Processing,FALSE
-Dynamic Sampling Strategies for Multi-Task Reading Comprehension,Natural Language Processing,FALSE
-Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change,Natural Language Processing,FALSE
-Efficient strategies for hierarchical text classification: external knowledge and auxiliary tasks,Natural Language Processing,FALSE
-Embarrassingly Simple Unsupervised Aspect Extraction,Natural Language Processing,FALSE
-Enabling Language Models to Fill in the Blanks,Natural Language Processing,FALSE
-Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction,Natural Language Processing,FALSE
-ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation,Natural Language Processing,FALSE
-Enhancing Machine Translation with Dependency-Aware Self-Attention,Natural Language Processing,FALSE
-Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention,Natural Language Processing,FALSE
-Enriched In-Order Linearization for Faster Sequence-to-Sequence Constituent Parsing,Natural Language Processing,FALSE
-Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification,Natural Language Processing,FALSE
-Estimating Mutual Information Between Dense Word Embeddings,Natural Language Processing,FALSE
-Evaluating Dialogue Generation Systems via Response Selection,Natural Language Processing,FALSE
-Evaluating Robustness to Input Perturbations for Neural Machine Translation,Natural Language Processing,FALSE
-Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks,Natural Language Processing,FALSE
-ExpBERT: Representation Engineering with Natural Language Explanations,Natural Language Processing,FALSE
-Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness,Natural Language Processing,FALSE
-Exploring Content Selection in Summarization of Novel Chapters,Natural Language Processing,FALSE
-Fact-based Content Weighting for Evaluating Abstractive Summarisation,Natural Language Processing,FALSE
-"Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concepts",Natural Language Processing,FALSE
-Few-Shot NLG with Pre-Trained Language Model,Natural Language Processing,FALSE
-FLAT: Chinese NER Using Flat-Lattice Transformer,Natural Language Processing,FALSE
-GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples,Natural Language Processing,FALSE
-Geometry-aware domain adaptation for unsupervised alignment of word embeddings,Natural Language Processing,FALSE
-"Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?",Natural Language Processing,FALSE
-Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs,Natural Language Processing,FALSE
-GPT-too: A language-model-first approach for AMR-to-text generation,Natural Language Processing,FALSE
-How Can We Accelerate Progress Towards Human-like Linguistic Generalization?,Natural Language Processing,TRUE
-Hypernymy Detection for Low-Resource Languages via Meta Learning,Natural Language Processing,FALSE
-Identifying Principals and Accessories in a Complex Case based on the Comprehension of Fact Description,Natural Language Processing,FALSE
-Implicit Discourse Relation Classification: We Need to Talk about Evaluation,Natural Language Processing,FALSE
-Improved Speech Representations with Multi-Target Autoregressive Predictive Coding,Natural Language Processing,FALSE
-Improving Entity Linking through Semantic Reinforced Entity Embeddings,Natural Language Processing,FALSE
-Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling,Natural Language Processing,FALSE
-Improving Non-autoregressive Neural Machine Translation with Monolingual Data,Natural Language Processing,FALSE
-Incorporating External Knowledge through Pre-training for Natural Language to Code Generation,Natural Language Processing,FALSE
-Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition,Natural Language Processing,FALSE
-Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder,Natural Language Processing,FALSE
-Interpreting Twitter User Geolocation,Natural Language Processing,FALSE
-Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds,Natural Language Processing,FALSE
-It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information,Natural Language Processing,FALSE
-Keyphrase Generation for Scientific Document Retrieval,Natural Language Processing,FALSE
-Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms,Natural Language Processing,FALSE
-Language-aware Interlingua for Multilingual Neural Machine Translation,Natural Language Processing,FALSE
-Learning an Unreferenced Metric for Online Dialogue Evaluation,Natural Language Processing,FALSE
-Learning Implicit Text Generation via Feature Matching,Natural Language Processing,FALSE
-Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment,Natural Language Processing,FALSE
-Learning Robust Models for e-Commerce Product Search,Natural Language Processing,FALSE
-Learning Spoken Language Representations with Neural Lattice Language Modeling,Natural Language Processing,FALSE
-Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge,Natural Language Processing,FALSE
-Learning to Understand Child-directed and Adult-directed Speech,Natural Language Processing,FALSE
-Let Me Choose: From Verbal Context to Font Selection,Natural Language Processing,FALSE
-Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation,Natural Language Processing,FALSE
-Lexically Constrained Neural Machine Translation with Levenshtein Transformer,Natural Language Processing,FALSE
-Lipschitz Constrained Parameter Initialization for Deep Transformers,Natural Language Processing,FALSE
-Logic-Guided Data Augmentation and Regularization for Consistent Question Answering,Natural Language Processing,FALSE
-Low Resource Sequence Tagging using Sentence Reconstruction,Natural Language Processing,FALSE
-Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations,Natural Language Processing,FALSE
-Masking Actor Information Leads to Fairer Political Claims Detection,Natural Language Processing,FALSE
-Meta-Transfer Learning for Code-Switched Speech Recognition,Natural Language Processing,FALSE
-Mitigating Gender Bias Amplification in Distribution by Posterior Regularization,Natural Language Processing,FALSE
-Modeling Label Semantics for Predicting Emotional Reactions,Natural Language Processing,FALSE
-Modeling Long Context for Task-Oriented Dialogue State Generation,Natural Language Processing,FALSE
-Modeling Word Formation in English?�German Neural Machine Translation,Natural Language Processing,FALSE
-MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs,Natural Language Processing,FALSE
-Multimodal and Multiresolution Speech Recognition with Transformers,Natural Language Processing,FALSE
-Multimodal Quality Estimation for Machine Translation,Natural Language Processing,FALSE
-Multimodal Transformer for Multimodal Machine Translation,Natural Language Processing,FALSE
-Named Entity Recognition as Dependency Parsing,Natural Language Processing,FALSE
-"Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",Natural Language Processing,FALSE
-Neural Graph Matching Networks for Chinese Short Text Matching,Natural Language Processing,FALSE
-Neural Temporal Opinion Modelling for Opinion Prediction on Twitter,Natural Language Processing,FALSE
-Neural-DINF: A Neural Network based Framework for Measuring Document Inﬂuence,Natural Language Processing,FALSE
-Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces,Natural Language Processing,FALSE
-"""None of the Above"": Measure Uncertainty in Dialog Response Retrieval",Natural Language Processing,FALSE
-"On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation",Natural Language Processing,FALSE
-On Forgetting to Cite Older Papers: An Analysis of the ACL Anthology,Natural Language Processing,FALSE
-On Importance Sampling-Based Evaluation of Latent Language Models,Natural Language Processing,FALSE
-On the Importance of Diversity in Question Generation for QA,Natural Language Processing,FALSE
-On the Spontaneous Emergence of Discrete and Compositional Signals,Natural Language Processing,FALSE
-OpinionDigest: A Simple Framework for Opinion Summarization,Natural Language Processing,FALSE
-Opportunistic Decoding with Timely Correction for Simultaneous Translation,Natural Language Processing,FALSE
-Overestimation of Syntactic Representation in Neural Language Models,Natural Language Processing,FALSE
-Parallel Data Augmentation for Formality Style Transfer,Natural Language Processing,FALSE
-Parallel Sentence Mining by Constrained Decoding,Natural Language Processing,FALSE
-Posterior Calibrated Training on Sentence Classification Tasks,Natural Language Processing,FALSE
-Predicting Degrees of Technicality in Automatic Terminology Extraction,Natural Language Processing,FALSE
-Pretrained Transformers Improve Out-of-Distribution Robustness,Natural Language Processing,FALSE
-Quantifying Attention Flow in Transformers,Natural Language Processing,FALSE
-Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases,Natural Language Processing,FALSE
-R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason,Natural Language Processing,FALSE
-Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models,Natural Language Processing,FALSE
-Recursive Template-based Frame Generation for Task Oriented Dialog,Natural Language Processing,FALSE
-Regularized Context Gates on Transformer for Machine Translation,Natural Language Processing,FALSE
-Relation Extraction with Explanation,Natural Language Processing,FALSE
-Representations of Syntax [MASK] Useful: Effects of Constituency and Dependency Structure in Recursive LSTMs,Natural Language Processing,FALSE
-Returning the N to NLP: Towards Contextually Personalized Classification Models,Natural Language Processing,FALSE
-Reverse Engineering Configurations of Neural Text Generation Models,Natural Language Processing,FALSE
-Revisiting Higher-Order Dependency Parsers,Natural Language Processing,FALSE
-Revisiting Unsupervised Relation Extraction,Natural Language Processing,FALSE
-SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions,Natural Language Processing,FALSE
-Self-Attention Guided Copy Mechanism for Abstractive Summarization,Natural Language Processing,FALSE
-Self-Attention with Cross-Lingual Position Representation,Natural Language Processing,FALSE
-Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity,Natural Language Processing,FALSE
-Shape of synth to come: Why we should use synthetic data for English surface realization,Natural Language Processing,FALSE
-Shaping Visual Representations with Language for Few-Shot Classification,Natural Language Processing,FALSE
-Showing Your Work Doesn't Always Work,Natural Language Processing,FALSE
-Simple and Effective Retrieve-Edit-Rerank Text Generation,Natural Language Processing,FALSE
-Simultaneous Translation Policies: From Fixed to Adaptive,Natural Language Processing,FALSE
-Single Model Ensemble using Pseudo-Tags and Distinct Vectors,Natural Language Processing,FALSE
-Smart To-Do: Automatic Generation of To-Do Items from Emails,Natural Language Processing,FALSE
-Social Biases in NLP Models as Barriers for Persons with Disabilities,Natural Language Processing,FALSE
-Soft Gazetteers for Low-Resource Named Entity Recognition,Natural Language Processing,FALSE
-Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,Natural Language Processing,FALSE
-Stolen Probability: A Structural Weakness of Neural Language Models,Natural Language Processing,FALSE
-Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture,Natural Language Processing,FALSE
-SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization,Natural Language Processing,FALSE
-Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi,Natural Language Processing,FALSE
-Syntactic Data Augmentation Increases Robustness to Inference Heuristics,Natural Language Processing,FALSE
-Tagged Back-translation Revisited: Why Does It Really Work?,Natural Language Processing,FALSE
-tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection,Natural Language Processing,FALSE
-Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering,Natural Language Processing,FALSE
-Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference,Natural Language Processing,FALSE
-Text Classification with Negative Supervision,Natural Language Processing,FALSE
-To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks,Natural Language Processing,FALSE
-Topological Sort for Sentence Ordering,Natural Language Processing,FALSE
-Toward Better Storylines with Sentence-Level Language Models,Natural Language Processing,FALSE
-Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization,Natural Language Processing,FALSE
-Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations,Natural Language Processing,FALSE
-Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?,Natural Language Processing,FALSE
-Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation,Natural Language Processing,FALSE
-Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering,Natural Language Processing,FALSE
-Treebank Embedding Vectors for Out-of-domain Dependency Parsing,Natural Language Processing,FALSE
-Tree-Structured Neural Topic Model,Natural Language Processing,FALSE
-TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition,Natural Language Processing,FALSE
-"Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data",Natural Language Processing,FALSE
-Uncertain Natural Language Inference,Natural Language Processing,FALSE
-Understanding Advertisements with BERT,Natural Language Processing,FALSE
-Unsupervised FAQ Retrieval with Question Generation and BERT,Natural Language Processing,FALSE
-Using Context in Neural Machine Translation Training Objectives,Natural Language Processing,FALSE
-Variational Neural Machine Translation with Normalizing Flows,Natural Language Processing,FALSE
-Verbal Multiword Expressions for Identification of Metaphor,Natural Language Processing,FALSE
-Video-Grounded Dialogues with Pretrained Generation Language Models,Natural Language Processing,FALSE
-What Does BERT with Vision Look At?,Natural Language Processing,FALSE
-What is Learned in Visually Grounded Neural Syntax Acquisition,Natural Language Processing,FALSE
-Why Overfitting Isn't Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries,Natural Language Processing,FALSE
-Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter,Natural Language Processing,FALSE
-"Words aren't enough, their order matters: On the Robustness of Grounding Visual Referring Expressions",Natural Language Processing,FALSE
-"Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation",Natural Language Processing,FALSE
-Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences,Natural Language Processing,FALSE
-You Don't Have Time to Read This: An Exploration of Document Reading Time Prediction,Natural Language Processing,FALSE
-``You Sound Just Like Your Father'' Commercial Machine Translation Systems Include Stylistic Biases,Natural Language Processing,FALSE
-ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT,Natural Language Processing,FALSE
-"ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents",Natural Language Processing,FALSE
-BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab,Natural Language Processing,FALSE
-Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes,Natural Language Processing,FALSE
-CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task,Natural Language Processing,FALSE
-Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems,Natural Language Processing,FALSE
-"ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",Natural Language Processing,FALSE
-DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation,Natural Language Processing,FALSE
-Embedding-based Scientific Literature Discovery in a Text Editor Application,Natural Language Processing,FALSE
-ESPnet-ST: All-in-One Speech Translation Toolkit,Natural Language Processing,FALSE
-EVIDENCEMINER: Textual Evidence Discovery for Life Sciences,Natural Language Processing,FALSE
-exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models,Natural Language Processing,FALSE
-GAIA: A Fine-grained Multimedia Knowledge Extraction System,Natural Language Processing,TRUE
-Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations,Natural Language Processing,FALSE
-jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models,Natural Language Processing,FALSE
-Label Noise in Context,Natural Language Processing,FALSE
-LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation,Natural Language Processing,FALSE
-LinggleWrite: a Coaching System for Essay Writing,Natural Language Processing,FALSE
-MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform,Natural Language Processing,FALSE
-"MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation",Natural Language Processing,FALSE
-Multilingual Universal Sentence Encoder for Semantic Retrieval,Natural Language Processing,FALSE
-Nakdan: Professional Hebrew Diacritizer,Natural Language Processing,FALSE
-NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature,Natural Language Processing,FALSE
-NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg,Natural Language Processing,FALSE
-OpusFilter: A Configurable Parallel Corpus Filtering Toolbox,Natural Language Processing,FALSE
-Penman: An Open-Source Library and Tool for AMR Graphs,Natural Language Processing,FALSE
-Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation,Natural Language Processing,FALSE
-Photon: A Robust Cross-Domain Text-to-SQL System,Natural Language Processing,FALSE
-Prta: A System to Support the Analysis of Propaganda Techniques in the News,Natural Language Processing,TRUE
-pyBART: Evidence-based Syntactic Transformations for IE,Natural Language Processing,FALSE
-Stanza: A Python Natural Language Processing Toolkit for Many Human Languages,Natural Language Processing,FALSE
-Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines,Natural Language Processing,FALSE
-SUPP.AI: finding evidence for supplement-drug interactions,Natural Language Processing,FALSE
-Syntactic Search by Example,Natural Language Processing,FALSE
-SyntaxGym: An Online Platform for Targeted Evaluation of Language Models,Natural Language Processing,FALSE
-Tabouid: a Wikipedia-based word guessing game,Natural Language Processing,FALSE
-Talk to Papers: Bringing Neural Question Answering to Academic Search,Natural Language Processing,FALSE
-TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing,Natural Language Processing,FALSE
-The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding,Natural Language Processing,FALSE
-Torch-Struct: Deep Structured Prediction Library,Natural Language Processing,TRUE
-Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time,Natural Language Processing,FALSE
-Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing,Natural Language Processing,FALSE
-What's The Latest? A Question-driven News Chatbot,Natural Language Processing,FALSE
-Xiaomingbot: A Multilingual Robot News Reporter,Natural Language Processing,FALSE
-#NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media,Natural Language Processing,FALSE
-A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples,Natural Language Processing,FALSE
-A Simple and Effective Dependency parser for Telugu,Natural Language Processing,FALSE
-Adaptive Transformers for Learning Multimodal Representations,Natural Language Processing,FALSE
-AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss,Natural Language Processing,FALSE
-Building a Japanese Typo Dataset from Wikipedia's Revision History,Natural Language Processing,FALSE
-Checkpoint Reranking: An Approach To Select Better Hypothesis For Neural Machine Translation Systems,Natural Language Processing,FALSE
-Combining Subword Representations into Word-level Representations in the Transformer Architecture,Natural Language Processing,FALSE
-Compositional generalization by factorizing alignment and translation,Natural Language Processing,FALSE
-Considering Likelihood in NLP Classification Explanations with Occlusion and Language Modeling,Natural Language Processing,FALSE
-Crossing the Line: Where do Demographic Variables Fit into Humor Detection?,Natural Language Processing,FALSE
-Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup,Natural Language Processing,FALSE
-Dominance as an Indicator of Rapport and Learning in Human-Agent Communication,Natural Language Processing,FALSE
-Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions,Natural Language Processing,FALSE
-Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages,Natural Language Processing,FALSE
-Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition,Natural Language Processing,FALSE
-Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources,Natural Language Processing,FALSE
-Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder,Natural Language Processing,FALSE
-Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions,Natural Language Processing,FALSE
-Feature Difference Makes Sense: A medical image captioning model exploiting feature difference and tag information,Natural Language Processing,FALSE
-Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner's Error Tendency,Natural Language Processing,FALSE
-HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing,Natural Language Processing,FALSE
-How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,Natural Language Processing,FALSE
-��BLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems,Natural Language Processing,FALSE
-Inducing Grammar from Long Short-Term Memory Networks by Shapley Decomposition,Natural Language Processing,FALSE
-Let's be Humorous: Knowledge Enhanced Humor Generation,Natural Language Processing,FALSE
-Logical Inferences with Comparatives and Generalized Quantifiers,Natural Language Processing,FALSE
-"Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling",Natural Language Processing,FALSE
-Multi-Task Neural Model for Agglutinative Language Translation,Natural Language Processing,FALSE
-Noise-Based Augmentation Techniques for Emotion Datasets: What do we Recommend?,Natural Language Processing,FALSE
-Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment,Natural Language Processing,FALSE
-Pointwise Paraphrase Appraisal is Potentially Problematic,Natural Language Processing,FALSE
-Pre-training via Leveraging Assisting Languages for Neural Machine Translation,Natural Language Processing,FALSE
-Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation,Natural Language Processing,FALSE
-Reflection-based Word Attribute Transfer,Natural Language Processing,FALSE
-Research on Task Discovery for Transfer Learning in Deep Neural Networks,Natural Language Processing,FALSE
-Research Replication Prediction Using Weakly Supervised Learning,Natural Language Processing,FALSE
-RPD: A Distance Function Between Word Embeddings,Natural Language Processing,FALSE
-SCAR: Sentence Compression using Autoencoders for Reconstruction,Natural Language Processing,FALSE
-Self-Attention is Not Only a Weight: Analyzing BERT with Vector Norms,Natural Language Processing,FALSE
-Story-level Text Style Transfer: A Proposal,Natural Language Processing,FALSE
-To compress or not to compress? A Finite-State approach to Nen verbal morphology,Natural Language Processing,FALSE
-Topic balancing with additive regularization of topic models,Natural Language Processing,FALSE
-Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya,Natural Language Processing,FALSE
-Understanding Points of Correspondence between Sentences for Abstractive Summarization,Natural Language Processing,FALSE
-Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining,Natural Language Processing,FALSE
-Unsupervised Paraphasia Classification in Aphasic Speech,Natural Language Processing,FALSE
-Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models,Natural Language Processing,FALSE
-Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition,Natural Language Processing,FALSE
+2kenize: Tying Subword Sequences for Chinese Script Conversion,Natural Language Processing,False
+A Batch Normalized Inference Network Keeps the KL Vanishing Away,Natural Language Processing,False
+A Call for More Rigor in Unsupervised Cross-lingual Learning,Natural Language Processing,False
+A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks,Natural Language Processing,False
+A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,Natural Language Processing,False
+A Corpus for Large-Scale Phonetic Typology,Natural Language Processing,False
+A Formal Hierarchy of RNN Architectures,Natural Language Processing,False
+A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization,Natural Language Processing,False
+A Generative Model for Joint Natural Language Understanding and Generation,Natural Language Processing,False
+A Girl Has A Name: Detecting Authorship Obfuscation,Natural Language Processing,False
+A Graph Auto-encoder Model of Derivational Morphology,Natural Language Processing,False
+A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction,Natural Language Processing,False
+A Joint Model for Document Segmentation and Segment Labeling,Natural Language Processing,False
+A Joint Neural Model for Information Extraction with Global Features,Natural Language Processing,False
+A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation,Natural Language Processing,False
+A Mixture of h − 1 Heads is Better than h Heads,Natural Language Processing,False
+A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages,Natural Language Processing,False
+A Multitask Learning Approach for Diacritic Restoration,Natural Language Processing,False
+A Novel Cascade Binary Tagging Framework for Relational Triple Extraction,Natural Language Processing,False
+A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation,Natural Language Processing,False
+A Prioritization Model for Suicidality Risk Assessment,Natural Language Processing,False
+A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks,Natural Language Processing,False
+A Reinforced Generation of Adversarial Examples for Neural Machine Translation,Natural Language Processing,False
+A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,Natural Language Processing,False
+A Span-based Linearization for Constituent Trees,Natural Language Processing,False
+A Study of Non-autoregressive Model for Sequence Generation,Natural Language Processing,False
+A Systematic Assessment of Syntactic Generalization in Neural Language Models,Natural Language Processing,False
+A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer's Type,Natural Language Processing,False
+A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure,Natural Language Processing,False
+A Unified MRC Framework for Named Entity Recognition,Natural Language Processing,False
+Adaptive Compression of Word Embeddings,Natural Language Processing,False
+Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation,Natural Language Processing,False
+AdvAug: Robust Adversarial Augmentation for Neural Machine Translation,Natural Language Processing,False
+Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis,Natural Language Processing,False
+Adversarial NLI: A New Benchmark for Natural Language Understanding,Natural Language Processing,False
+Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity,Natural Language Processing,False
+Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,Natural Language Processing,False
+"Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",Natural Language Processing,False
+AMR Parsing via Graph-Sequence Iterative Inference,Natural Language Processing,False
+AMR Parsing with Latent Structural Information,Natural Language Processing,False
+An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models,Natural Language Processing,False
+An Effective Transition-based Model for Discontinuous NER,Natural Language Processing,False
+An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results,Natural Language Processing,False
+An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering,Natural Language Processing,False
+Analysing Lexical Semantic Change with Contextualised Word Representations,Natural Language Processing,False
+Analyzing analytical methods: The case of phonology in neural models of spoken language,Natural Language Processing,False
+Analyzing Political Parody in Social Media,Natural Language Processing,False
+Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition,Natural Language Processing,False
+Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,Natural Language Processing,False
+Aspect Sentiment Classification with Document-level Sentiment Preference Modeling,Natural Language Processing,False
+ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations,Natural Language Processing,False
+"Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization",Natural Language Processing,False
+Attentive Pooling with Learnable Norms for Text Representation,Natural Language Processing,False
+Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics,Natural Language Processing,False
+Automated Evaluation of Writing – 50 Years and Counting,Natural Language Processing,False
+Automatic Detection of Generated Text is Easiest when Humans are Fooled,Natural Language Processing,False
+Automatic Generation of Citation Texts in Scholarly Papers: A Pilot Study,Natural Language Processing,False
+Automatic Poetry Generation from Prosaic Text,Natural Language Processing,False
+BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps,Natural Language Processing,False
+Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards,Natural Language Processing,False
+Balancing Training for Multilingual Neural Machine Translation,Natural Language Processing,False
+"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension",Natural Language Processing,False
+Benchmarking Multimodal Regex Synthesis with Complex Structures,Natural Language Processing,False
+BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance,Natural Language Processing,False
+Beyond Accuracy: Behavioral Testing of NLP Models with CheckList,Natural Language Processing,True
+Beyond Possession Existence: Duration and Co-Possession,Natural Language Processing,False
+Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation,Natural Language Processing,False
+Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences,Natural Language Processing,False
+Biomedical Entity Representations with Synonym Marginalization,Natural Language Processing,False
+Bipartite Flat-Graph Network for Nested Named Entity Recognition,Natural Language Processing,False
+BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection,Natural Language Processing,False
+BLEURT: Learning Robust Metrics for Text Generation,Natural Language Processing,False
+Boosting Neural Machine Translation with Similar Translations,Natural Language Processing,False
+Bootstrapping Techniques for Polysynthetic Morphological Analysis,Natural Language Processing,False
+BPE-Dropout: Simple and Effective Subword Regularization,Natural Language Processing,False
+Breaking Through the 80% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information,Natural Language Processing,False
+Bridging Anaphora Resolution as Question Answering,Natural Language Processing,False
+Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation,Natural Language Processing,False
+Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell,Natural Language Processing,False
+Calibrating Structured Output Predictors for Natural Language Processing,Natural Language Processing,False
+CamemBERT: a Tasty French Language Model,Natural Language Processing,False
+Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction,Natural Language Processing,False
+Can You Put it All Together: Evaluating Conversational Agents' Ability to Blend Skills,Natural Language Processing,False
+CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation,Natural Language Processing,False
+ChartDialogs: Plotting from Natural Language Instructions,Natural Language Processing,False
+CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,Natural Language Processing,False
+"Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",Natural Language Processing,True
+Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset,Natural Language Processing,False
+CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages,Natural Language Processing,False
+CluHTM - Semantic Hierarchical Topic Modeling based on CluWords,Natural Language Processing,False
+Code and Named Entity Recognition in StackOverflow,Natural Language Processing,False
+CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning,Natural Language Processing,False
+Compositionality and Generalization In Emergent Languages,Natural Language Processing,False
+Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation,Natural Language Processing,False
+Connecting Embeddings for Knowledge Graph Entity Typing,Natural Language Processing,False
+Contextualized Weak Supervision for Text Classification,Natural Language Processing,False
+Continual Relation Learning via Episodic Memory Activation and Reconsolidation,Natural Language Processing,False
+Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation,Natural Language Processing,False
+CorefQA: Coreference Resolution as Query-based Span Prediction,Natural Language Processing,False
+Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation,Natural Language Processing,False
+CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant,Natural Language Processing,False
+Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus,Natural Language Processing,False
+Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning,Natural Language Processing,False
+Cross-Linguistic Syntactic Evaluation of Word Prediction Models,Natural Language Processing,False
+Cross-media Structured Common Space for Multimedia Event Extraction,Natural Language Processing,False
+Cross-modal Coherence Modeling for Caption Generation,Natural Language Processing,False
+Cross-modal Language Generation using Pivot Stabilization for Web-scale Language Coverage,Natural Language Processing,False
+Cross-Modality Relevance for Reasoning on Language and Vision,Natural Language Processing,False
+Curriculum Learning for Natural Language Understanding,Natural Language Processing,False
+Curriculum Pre-training for End-to-End Speech Translation,Natural Language Processing,False
+Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight,Natural Language Processing,False
+DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering,Natural Language Processing,False
+Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting,Natural Language Processing,False
+Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA,Natural Language Processing,False
+Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification,Natural Language Processing,False
+DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking,Natural Language Processing,False
+Detecting Perceived Emotions in Hurricane Disasters,Natural Language Processing,False
+Dialogue Coherence Assessment Without Explicit Dialogue Act Labels,Natural Language Processing,False
+Dialogue-Based Relation Extraction,Natural Language Processing,False
+Dice Loss for Data-imbalanced NLP Tasks,Natural Language Processing,False
+Differentiable Window for Dynamic Local Attention,Natural Language Processing,False
+Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event,Natural Language Processing,False
+Discourse-Aware Neural Extractive Text Summarization,Natural Language Processing,False
+Discrete Latent Variable Representations for Low-Resource Text Classification,Natural Language Processing,False
+Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction,Natural Language Processing,False
+Distilling Annotations via Active Imitation Learning,Natural Language Processing,False
+Distilling Knowledge Learned in BERT for Text Generation,Natural Language Processing,False
+Distinguish Confusing Law Articles for Legal Judgment Prediction,Natural Language Processing,False
+Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness,Natural Language Processing,False
+Diversifying Dialogue Generation with Non-Conversational Text,Natural Language Processing,False
+Do Neural Language Models Show Preferences for Syntactic Formalisms?,Natural Language Processing,False
+Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,Natural Language Processing,False
+Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension,Natural Language Processing,False
+Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain,Natural Language Processing,False
+Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding,Natural Language Processing,False
+Don't Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,Natural Language Processing,False
+Don't Stop Pretraining: Adapt Language Models to Domains and Tasks,Natural Language Processing,True
+DoQA - Accessing Domain-Specific FAQs via Conversational QA,Natural Language Processing,False
+Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation,Natural Language Processing,False
+DRTS Parsing with Structure-Aware Encoding and Decoding,Natural Language Processing,False
+DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,Natural Language Processing,False
+Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,Natural Language Processing,False
+Dynamic Online Conversation Recommendation,Natural Language Processing,False
+Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation,Natural Language Processing,False
+"ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction",Natural Language Processing,False
+Effective Estimation of Deep Generative Language Models,Natural Language Processing,False
+Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction,Natural Language Processing,False
+Efficient Constituency Parsing by Pointing,Natural Language Processing,False
+Efficient Dialogue State Tracking by Selectively Overwriting Memory,Natural Language Processing,False
+Efficient Pairwise Annotation of Argument Quality,Natural Language Processing,False
+Efficient Second-Order TreeCRF for Neural Dependency Parsing,Natural Language Processing,False
+Emergence of Syntax Needs Minimal Supervision,Natural Language Processing,False
+Emerging Cross-lingual Structure in Pretrained Language Models,Natural Language Processing,False
+Empower Entity Set Expansion via Language Model Probing,Natural Language Processing,False
+Empowering Active Learning to Jointly Optimize System and User Demands,Natural Language Processing,False
+End-to-End Bias Mitigation by Modelling Biases in Corpora,Natural Language Processing,False
+End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,Natural Language Processing,False
+End-to-End Neural Word Alignment Outperforms GIZA++,Natural Language Processing,False
+Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension,Natural Language Processing,False
+Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge,Natural Language Processing,False
+ERASER: A Benchmark to Evaluate Rationalized NLP Models,Natural Language Processing,False
+ESPRIT: Explaining Solutions to Physical Reasoning Tasks,Natural Language Processing,False
+Estimating predictive uncertainty for rumour verification models,Natural Language Processing,False
+Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks,Natural Language Processing,False
+Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples,Natural Language Processing,False
+Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?,Natural Language Processing,False
+Evaluating Explanation Methods for Neural Machine Translation,Natural Language Processing,False
+Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder,Natural Language Processing,False
+"Exact yet Efficient Graph Parsing, Bi-directional Locality and the Constructivist Hypothesis",Natural Language Processing,False
+Examining Citations of Natural Language Processing Literature,Natural Language Processing,False
+Examining the State-of-the-Art in News Timeline Summarization,Natural Language Processing,False
+Exclusive Hierarchical Decoding for Deep Keyphrase Generation,Natural Language Processing,False
+Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen,Natural Language Processing,False
+Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,Natural Language Processing,False
+Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading,Natural Language Processing,False
+Explicit Semantic Decomposition for Definition Generation,Natural Language Processing,False
+Exploiting Syntactic Structure for Better Language Modeling: A Syntactic Distance Approach,Natural Language Processing,False
+Exploiting the Syntax-Model Consistency for Neural Relation Extraction,Natural Language Processing,False
+Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer,Natural Language Processing,False
+Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,Natural Language Processing,False
+"Extracting Headless MWEs from Dependency Parse Trees: Parsing, Tagging, and Joint Modeling Approaches",Natural Language Processing,False
+Extractive Summarization as Text Matching,Natural Language Processing,False
+Facet-Aware Evaluation for Extractive Summarization,Natural Language Processing,False
+Fact-based Text Editing,Natural Language Processing,False
+Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning,Natural Language Processing,False
+Fast and Accurate Non-Projective Dependency Tree Linearization,Natural Language Processing,False
+FastBERT: a Self-distilling BERT with Adaptive Inference Time,Natural Language Processing,False
+Feature Projection for Improved Text Classification,Natural Language Processing,False
+FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,Natural Language Processing,False
+Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network,Natural Language Processing,False
+Finding Universal Grammatical Relations in Multilingual BERT,Natural Language Processing,False
+Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences,Natural Language Processing,False
+Fine-grained Fact Verification with Kernel Graph Attention Network,Natural Language Processing,False
+Fine-grained Interest Matching for Neural News Recommendation,Natural Language Processing,False
+Fluent Response Generation for Conversational Question Answering,Natural Language Processing,False
+From Arguments to Key Points: Towards Automatic Argument Summarization,Natural Language Processing,False
+From English to Code-Switching: Transfer Learning with Strong Morphological Clues,Natural Language Processing,False
+From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,Natural Language Processing,False
+From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains,Natural Language Processing,False
+Frugal Paradigm Completion,Natural Language Processing,False
+Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection,Natural Language Processing,False
+GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,Natural Language Processing,False
+Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer,Natural Language Processing,False
+Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations,Natural Language Processing,False
+Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,Natural Language Processing,False
+Generalized Entropy Regularization or: There's Nothing Special about Label Smoothing,Natural Language Processing,False
+Generalizing Natural Language Analysis through Span-relation Representations,Natural Language Processing,False
+"Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation",Natural Language Processing,False
+Generating Counter Narratives against Online Hate Speech: Data and Strategies,Natural Language Processing,False
+Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs,Natural Language Processing,False
+Generating Fact Checking Explanations,Natural Language Processing,False
+Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection,Natural Language Processing,False
+Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy,Natural Language Processing,False
+Generative Semantic Hashing Enhanced via Boltzmann Machines,Natural Language Processing,False
+GLUECoS: An Evaluation Benchmark for Code-Switched NLP,Natural Language Processing,False
+GoEmotions: A Dataset of Fine-Grained Emotions,Natural Language Processing,False
+Good-Enough Compositional Data Augmentation,Natural Language Processing,False
+Graph Neural News Recommendation with Unsupervised Preference Disentanglement,Natural Language Processing,False
+Graph-to-Tree Learning for Solving Math Word Problems,Natural Language Processing,False
+Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,Natural Language Processing,False
+Grounding Conversations with Improvised Dialogues,Natural Language Processing,False
+Guiding Variational Response Generator to Exploit Persona,Natural Language Processing,False
+Handling Rare Entities for Neural Sequence Labeling,Natural Language Processing,False
+Hard-Coded Gaussian Attention for Neural Machine Translation,Natural Language Processing,False
+Harnessing the linguistic signal to predict scalar inferences,Natural Language Processing,False
+Harvesting and Refining Question-Answer Pairs for Unsupervised QA,Natural Language Processing,False
+HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,Natural Language Processing,False
+"He said ""who's gonna take care of your children when you are at ACL?"": Reported Sexist Acts are Not Sexist",Natural Language Processing,False
+Heterogeneous Graph Neural Networks for Extractive Document Summarization,Natural Language Processing,False
+Heterogeneous Graph Transformer for Graph-to-Sequence Learning,Natural Language Processing,False
+Hierarchical Entity Typing via Multi-level Learning to Rank,Natural Language Processing,False
+Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention,Natural Language Processing,False
+Hierarchy-Aware Global Model for Hierarchical Text Classification,Natural Language Processing,False
+Highway Transformer: Self-Gating Enhanced Self-Attentive Networks,Natural Language Processing,False
+Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation,Natural Language Processing,False
+History for Visual Dialog: Do we really need it?,Natural Language Processing,False
+Hooks in the Headline: Learning to Generate Headlines with Controlled Styles,Natural Language Processing,False
+How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems,Natural Language Processing,False
+How does BERT's attention change when you fine-tune? An analysis methodology and a case study in negation scope,Natural Language Processing,False
+How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence,Natural Language Processing,False
+How Does Selective Mechanism Improve Self-Attention Networks?,Natural Language Processing,False
+How to Ask Good Questions? Try to Leverage Paraphrases,Natural Language Processing,False
+Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?,Natural Language Processing,False
+Hyperbolic Capsule Networks for Multi-Label Classification,Natural Language Processing,False
+HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding,Natural Language Processing,False
+Image-Chat: Engaging Grounded Conversations,Natural Language Processing,False
+IMoJIE: Iterative Memory-Based Joint Open Information Extraction,Natural Language Processing,False
+Improved Natural Language Generation via Loss Truncation,Natural Language Processing,False
+Improving Adversarial Text Generation by Modeling the Distant Future,Natural Language Processing,False
+Improving Chinese Word Segmentation with Wordhood Memory Networks,Natural Language Processing,False
+Improving Disentangled Text Representation Learning with Information-Theoretic Guidance,Natural Language Processing,False
+Improving Disfluency Detection by Self-Training a Self-Attentive Model,Natural Language Processing,False
+Improving Event Detection via Open-domain Trigger Knowledge,Natural Language Processing,False
+Improving Image Captioning Evaluation by Considering Inter References Variance,Natural Language Processing,False
+Improving Image Captioning with Better Use of Caption,Natural Language Processing,False
+Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation,Natural Language Processing,False
+Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,Natural Language Processing,False
+Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer,Natural Language Processing,False
+Improving Neural Machine Translation with Soft Template Prediction,Natural Language Processing,False
+Improving Segmentation for Technical Support Problems,Natural Language Processing,False
+Improving Transformer Models by Reordering their Sublayers,Natural Language Processing,False
+Improving Truthfulness of Headline Generation,Natural Language Processing,False
+In Layman's Terms: Semi-Open Relation Extraction from Scientific Texts,Natural Language Processing,False
+"In Neural Machine Translation, What Does Transfer Learning Transfer?",Natural Language Processing,False
+Inflecting when there's no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals,Natural Language Processing,False
+Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models,Natural Language Processing,False
+Information-Theoretic Probing for Linguistic Structure,Natural Language Processing,False
+INFOTABS: Inference on Tables as Semi-structured Data,Natural Language Processing,False
+Injecting Numerical Reasoning Skills into Language Models,Natural Language Processing,False
+INSET: Sentence Infilling with INter-SEntential Transformer,Natural Language Processing,False
+Integrating Multimodal Information in Large Pretrained Transformers,Natural Language Processing,False
+Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection,Natural Language Processing,False
+Interactive Classification by Asking Informative Questions,Natural Language Processing,False
+Interactive Construction of User-Centric Dictionary for Text Analytics,Natural Language Processing,False
+Interactive Machine Comprehension with Information Seeking Agents,Natural Language Processing,False
+Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?,Natural Language Processing,False
+Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings,Natural Language Processing,False
+Investigating the effect of auxiliary objectives for the automated grading of learner English speech transcriptions,Natural Language Processing,False
+Investigating Word-Class Distributions in Word Vector Spaces,Natural Language Processing,False
+iSarcasm: A Dataset of Intended Sarcasm,Natural Language Processing,False
+"It Takes Two to Lie: One to Lie, and One to Listen",Natural Language Processing,False
+It's Morphin' Time! Combating Linguistic Discrimination with Inflectional Perturbations,Natural Language Processing,False
+Iterative Edit-Based Unsupervised Sentence Simplification,Natural Language Processing,False
+Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge,Natural Language Processing,False
+"Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging",Natural Language Processing,False
+Joint Modelling of Emotion and Abusive Language Detection,Natural Language Processing,False
+Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization,Natural Language Processing,False
+Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation,Natural Language Processing,False
+KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation,Natural Language Processing,False
+KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis,Natural Language Processing,False
+KLEJ: Comprehensive Benchmark for Polish Language Understanding,Natural Language Processing,False
+Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation,Natural Language Processing,False
+Knowledge Graph Embedding Compression,Natural Language Processing,False
+Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward,Natural Language Processing,False
+Language (Re)modelling: Towards Embodied Language Understanding,Natural Language Processing,False
+Language (technology) is power: The need to be explicit about NLP harms,Natural Language Processing,False
+Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese,Natural Language Processing,False
+Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions,Natural Language Processing,False
+Large Scale Multi-Actor Generative Dialog Modeling,Natural Language Processing,False
+Learning a Multi-Domain Curriculum for Neural Machine Translation,Natural Language Processing,False
+Learning and Evaluating Emotion Lexicons for 91 Languages,Natural Language Processing,False
+Learning Architectures from an Extended Search Space for Language Modeling,Natural Language Processing,False
+Learning Constraints for Structured Prediction Using Rectifier Networks,Natural Language Processing,False
+Learning Dialog Policies from Weak Demonstrations,Natural Language Processing,False
+Learning Efficient Dialogue Policy from Demonstrations through Shaping,Natural Language Processing,False
+"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts",Natural Language Processing,False
+Learning Source Phrase Representations for Neural Machine Translation,Natural Language Processing,False
+Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction,Natural Language Processing,False
+Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,Natural Language Processing,False
+Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks,Natural Language Processing,False
+Learning to Deceive with Attention-Based Explanations,Natural Language Processing,False
+Learning to execute instructions in a Minecraft dialogue,Natural Language Processing,False
+Learning to Faithfully Rationalize by Construction,Natural Language Processing,False
+Learning to Identify Follow-Up Questions in Conversational Question Answering,Natural Language Processing,False
+Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation,Natural Language Processing,False
+Learning to Segment Actions from Observation and Narration,Natural Language Processing,False
+Learning to Update Natural Language Comments Based on Code Changes,Natural Language Processing,False
+Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context,Natural Language Processing,False
+Leveraging Graph to Improve Abstractive Multi-Document Summarization,Natural Language Processing,False
+Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks,Natural Language Processing,False
+Location Attention for Extrapolation to Longer Sequences,Natural Language Processing,False
+Logical Natural Language Generation from Open-Domain Tables,Natural Language Processing,False
+LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network,Natural Language Processing,False
+Low-Dimensional Hyperbolic Knowledge Graph Embeddings,Natural Language Processing,False
+Low-Resource Generation of Multi-hop Reasoning Questions,Natural Language Processing,False
+Machine Reading of Historical Events,Natural Language Processing,False
+Mapping Natural Language Instructions to Mobile UI Action Sequences,Natural Language Processing,False
+MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning,Natural Language Processing,False
+Masked Language Model Scoring,Natural Language Processing,False
+"MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization",Natural Language Processing,False
+Max-Margin Incremental CCG Parsing,Natural Language Processing,False
+Measuring Forecasting Skill from Text,Natural Language Processing,False
+Meta-Reinforced Multi-Domain State Generator for Dialogue Systems,Natural Language Processing,False
+MIE: A Medical Information Extractor towards Medical Dialogues,Natural Language Processing,False
+Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance,Natural Language Processing,False
+MIND: A Large-scale Dataset for News Recommendation,Natural Language Processing,False
+MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification,Natural Language Processing,False
+MLQA: Evaluating Cross-lingual Extractive Question Answering,Natural Language Processing,False
+MMPE: A Multi-Modal Interface for Post-Editing Machine Translation,Natural Language Processing,False
+MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices,Natural Language Processing,False
+Modeling Code-Switch Languages Using Bilingual Parallel Corpus,Natural Language Processing,False
+Modeling Morphological Typology for Unsupervised Learning of Language Morphology,Natural Language Processing,False
+Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis,Natural Language Processing,False
+More Diverse Dialogue Datasets via Diversity-Informed Data Collection,Natural Language Processing,False
+Moving Down the Long Tail of Word Sense Disambiguation with Gloss Informed Bi-encoders,Natural Language Processing,False
+Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning,Natural Language Processing,False
+Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition,Natural Language Processing,False
+Multi-Cell Compositional LSTM for NER Domain Adaptation,Natural Language Processing,False
+Multidirectional Associative Optimization of Function-Specific Word Representations,Natural Language Processing,False
+Multi-Domain Dialogue Acts and Response Co-Generation,Natural Language Processing,False
+Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference,Natural Language Processing,False
+Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing,Natural Language Processing,False
+Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization,Natural Language Processing,False
+Multi-Hypothesis Machine Translation Evaluation,Natural Language Processing,False
+Multi-Label and Multilingual News Framing Analysis,Natural Language Processing,False
+Multimodal Neural Graph Memory Networks for Visual Question Answering,Natural Language Processing,False
+MultiQT: Multimodal learning for real-time question tracking in speech,Natural Language Processing,False
+Multiscale Collaborative Deep Models for Neural Machine Translation,Natural Language Processing,False
+Multi-Sentence Argument Linking,Natural Language Processing,False
+Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,Natural Language Processing,False
+MuTual: A Dataset for Multi-Turn Dialogue Reasoning,Natural Language Processing,False
+Named Entity Recognition without Labelled Data: A Weak Supervision Approach,Natural Language Processing,False
+NAT: Noise-Aware Training for Robust Neural Sequence Labeling,Natural Language Processing,False
+Negative Training for Neural Dialogue Response Generation,Natural Language Processing,False
+Neighborhood Matching Network for Entity Alignment,Natural Language Processing,False
+NeuInfer: Knowledge Inference on N-ary Facts,Natural Language Processing,False
+Neural CRF Model for Sentence Alignment in Text Simplification,Natural Language Processing,False
+Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence,Natural Language Processing,False
+Neural Generation of Dialogue Response Timings,Natural Language Processing,False
+Neural Mixed Counting Models for Dispersed Topic Discovery,Natural Language Processing,False
+Neural Reranking for Dependency Parsing: An Evaluation,Natural Language Processing,False
+Neural Syntactic Preordering for Controlled Paraphrase Generation,Natural Language Processing,False
+Neural Topic Modeling with Bidirectional Adversarial Training,Natural Language Processing,False
+NILE : Natural Language Inference with Faithful Natural Language Explanations,Natural Language Processing,False
+Norm-Based Curriculum Learning for Neural Machine Translation,Natural Language Processing,False
+Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses,Natural Language Processing,False
+Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,Natural Language Processing,False
+Obtaining Faithful Interpretations from Compositional Neural Networks,Natural Language Processing,False
+On Faithfulness and Factuality in Abstractive Summarization,Natural Language Processing,False
+On the Cross-lingual Transferability of Monolingual Representations,Natural Language Processing,False
+On the Encoder-Decoder Incompatibility in Variational Text Modeling and Beyond,Natural Language Processing,False
+On The Evaluation of Machine Translation SystemsTrained With Back-Translation,Natural Language Processing,False
+On the Inference Calibration of Neural Machine Translation,Natural Language Processing,False
+On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation,Natural Language Processing,False
+On the Robustness of Language Encoders against Grammatical Errors,Natural Language Processing,False
+One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases,Natural Language Processing,False
+Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports,Natural Language Processing,False
+Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding,Natural Language Processing,False
+Out of the Echo Chamber: Detecting Countering Debate Speeches,Natural Language Processing,False
+ParaCrawl: Web-Scale Acquisition of Parallel Corpora,Natural Language Processing,False
+Parallel Corpus Filtering via Pre-trained Language Models,Natural Language Processing,False
+Paraphrase Augmented Task-Oriented Dialog Generation,Natural Language Processing,False
+Paraphrase Generation by Learning How to Edit from Samples,Natural Language Processing,False
+Parsing into Variable-in-situ Logico-Semantic Graphs,Natural Language Processing,False
+Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT,Natural Language Processing,False
+PeTra: A Sparsely Supervised Memory Model for People Tracking,Natural Language Processing,False
+Phone Features Improve Speech Translation,Natural Language Processing,False
+Phonetic and Visual Priors for Decipherment of Informal Romanization,Natural Language Processing,False
+PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable,Natural Language Processing,False
+Politeness Transfer: A Tag and Generate Approach,Natural Language Processing,False
+Posterior Control of Blackbox Generation,Natural Language Processing,False
+Predicting Declension Class from Form and Meaning,Natural Language Processing,False
+Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts,Natural Language Processing,False
+Predicting Performance for Natural Language Processing Tasks,Natural Language Processing,False
+Predicting the Focus of Negation: Model and Error Analysis,Natural Language Processing,False
+Predicting the Growth of Morphological Families from Social and Linguistic Factors,Natural Language Processing,False
+Predicting the Topical Stance and Political Leaning of Media using Tweets,Natural Language Processing,False
+Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview,Natural Language Processing,False
+Premise Selection in Natural Language Mathematical Texts,Natural Language Processing,False
+Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders,Natural Language Processing,False
+Pre-training Is (Almost) All You Need: An Application to Commonsense Reasoning,Natural Language Processing,False
+Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models,Natural Language Processing,False
+Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering,Natural Language Processing,False
+Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order,Natural Language Processing,False
+Probing for referential information in language models,Natural Language Processing,False
+Probing Linguistic Features of Sentence-Level Representations in Relation Extraction,Natural Language Processing,False
+Probing Linguistic Systematicity,Natural Language Processing,False
+Programming in Natural Language with fuSE: Synthesizing Methods from Spoken Utterances Using Deep Natural Language Understanding,Natural Language Processing,False
+PuzzLing Machines: A Challenge on Learning From Small Data,Natural Language Processing,False
+Pyramid: A Layered Model for Nested Named Entity Recognition,Natural Language Processing,False
+QuASE: Question-Answer Driven Sentence Encoding,Natural Language Processing,False
+"R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge",Natural Language Processing,False
+Rationalizing Medical Relation Prediction from Corpus-level Statistics,Natural Language Processing,False
+Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport,Natural Language Processing,False
+RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,Natural Language Processing,False
+Reasoning Over Semantic-Level Graph for Fact Checking,Natural Language Processing,False
+Reasoning with Latent Structure Refinement for Document-Level Relation Extraction,Natural Language Processing,False
+Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association,Natural Language Processing,False
+(Re)construing Meaning in NLP,Natural Language Processing,False
+Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension,Natural Language Processing,False
+Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment,Natural Language Processing,False
+Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem,Natural Language Processing,False
+Refer360° : A Referring Expression Recognition Dataset in 360° Images,Natural Language Processing,False
+ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding,Natural Language Processing,False
+Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents,Natural Language Processing,False
+Relational Graph Attention Network for Aspect-based Sentiment Analysis,Natural Language Processing,False
+Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis,Natural Language Processing,False
+Representation Learning for Information Extraction from Form-like Documents,Natural Language Processing,False
+Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation,Natural Language Processing,False
+Review-based Question Generation with Adaptive Instance Transfer and Augmentation,Natural Language Processing,False
+Revisiting the Context Window for Cross-lingual Word Embeddings,Natural Language Processing,False
+Rigid Formats Controlled Text Generation,Natural Language Processing,False
+RikiNet: Reading Wikipedia Pages for Natural Question Answering,Natural Language Processing,False
+Robust Encodings: A Framework for Combating Adversarial Typos,Natural Language Processing,False
+Roles and Utilization of Attention Heads in Transformer-based Neural Language Models,Natural Language Processing,False
+S2ORC: The Semantic Scholar Open Research Corpus,Natural Language Processing,False
+SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing,Natural Language Processing,False
+SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations,Natural Language Processing,False
+schuBERT: Optimizing Elements of BERT,Natural Language Processing,False
+SciREX: A Challenge Dataset for Document-Level Information Extraction,Natural Language Processing,False
+Screenplay Summarization Using Latent Narrative Structure,Natural Language Processing,False
+ScriptWriter: Narrative-Guided Script Generation,Natural Language Processing,False
+SEEK: Segmented Embedding of Knowledge Graphs,Natural Language Processing,False
+Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation,Natural Language Processing,False
+Selective Question Answering under Domain Shift,Natural Language Processing,False
+Semantic Graphs for Generating Deep Questions,Natural Language Processing,False
+Semantic Parsing for English as a Second Language,Natural Language Processing,False
+Semantic Scaffolds for Pseudocode-to-Code Generation,Natural Language Processing,False
+Semi-supervised Contextual Historical Text Normalization,Natural Language Processing,False
+Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation,Natural Language Processing,False
+Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders,Natural Language Processing,False
+SenseBERT: Driving Some Sense into BERT,Natural Language Processing,False
+SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics,Natural Language Processing,False
+"Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis",Natural Language Processing,False
+SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling,Natural Language Processing,False
+Should All Cross-Lingual Embeddings Speak English?,Natural Language Processing,False
+Similarity Analysis of Contextual Word Representation Models,Natural Language Processing,False
+"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora",Natural Language Processing,False
+Simplify the Usage of Lexicon in Chinese NER,Natural Language Processing,False
+SimulSpeech: End-to-End Simultaneous Speech to Text Translation,Natural Language Processing,False
+Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language,Natural Language Processing,False
+SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis,Natural Language Processing,False
+Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network,Natural Language Processing,False
+SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization,Natural Language Processing,False
+Social Bias Frames: Reasoning about Social and Power Implications of Language,Natural Language Processing,False
+Sources of Transfer in Multilingual Named Entity Recognition,Natural Language Processing,False
+Span Selection Pre-training for Question Answering,Natural Language Processing,False
+Span-based Localizing Network for Natural Language Video Localization,Natural Language Processing,False
+SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction,Natural Language Processing,False
+Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,Natural Language Processing,False
+Speaker Sensitive Response Evaluation Model,Natural Language Processing,False
+Speakers enhance contextually confusable words,Natural Language Processing,False
+SPECTER: Document-level Representation Learning using Citation-informed Transformers,Natural Language Processing,False
+Speech Translation and the End-to-End Promise: Taking Stock of Where We Are,Natural Language Processing,False
+SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check,Natural Language Processing,False
+Spelling Error Correction with Soft-Masked BERT,Natural Language Processing,False
+Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words,Natural Language Processing,False
+STARC: Structured Annotations for Reading Comprehension,Natural Language Processing,False
+"Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization",Natural Language Processing,False
+Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,Natural Language Processing,False
+Structural Information Preserving for Graph-to-Text Generation,Natural Language Processing,False
+Structured Tuning for Semantic Role Labeling,Natural Language Processing,False
+Structure-Level Knowledge Distillation For Multilingual Sequence Labeling,Natural Language Processing,False
+Suspense in Short Stories is Predicted By Uncertainty Reduction over Neural Story Representation,Natural Language Processing,False
+Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction,Natural Language Processing,False
+Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation,Natural Language Processing,False
+Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks,Natural Language Processing,False
+TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,Natural Language Processing,False
+TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task,Natural Language Processing,False
+TAG : Type Auxiliary Guiding for Code Comment Generation,Natural Language Processing,False
+Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics,Natural Language Processing,True
+TaPas: Weakly Supervised Table Parsing via Pre-training,Natural Language Processing,False
+Target Inference in Argument Conclusion Generation,Natural Language Processing,False
+Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer,Natural Language Processing,False
+Tchebycheff Procedure for Multi-task Text Classification,Natural Language Processing,False
+Temporal Common Sense Acquisition with Minimal Supervision,Natural Language Processing,False
+Temporally-Informed Analysis of Named Entity Recognition,Natural Language Processing,False
+Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates,Natural Language Processing,False
+Text-Based Ideal Points,Natural Language Processing,False
+That is a Known Lie: Detecting Previously Fact-Checked Claims,Natural Language Processing,False
+"""The Boating Store Had Its Best Sail Ever"": Pronunciation-attentive Contextualized Pun Recognition",Natural Language Processing,False
+The Cascade Transformer: an Application for Efficient Answer Sentence Selection,Natural Language Processing,False
+The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,Natural Language Processing,False
+The Paradigm Discovery Problem,Natural Language Processing,False
+The Right Tool for the Job: Matching Model and Instance Complexities,Natural Language Processing,False
+The Sensitivity of Language Models and Humans to Winograd Schema Perturbations,Natural Language Processing,False
+The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,Natural Language Processing,False
+The State and Fate of Linguistic Diversity and Inclusion in the NLP World,Natural Language Processing,False
+The Summary Loop: Learning to Write Abstractive Summaries Without Examples,Natural Language Processing,False
+The TechQA Dataset,Natural Language Processing,False
+The Unstoppable Rise of Computational Linguistics in Deep Learning,Natural Language Processing,False
+To Boldly Query What No One Has Annotated Before? The Frontiers of Corpus Querying,Natural Language Processing,False
+"To Test Machine Comprehension, Start by Defining Comprehension",Natural Language Processing,False
+Toward Gender-Inclusive Coreference Resolution,Natural Language Processing,False
+Towards Conversational Recommendation over Multi-Type Dialogs,Natural Language Processing,False
+Towards Debiasing Sentence Representations,Natural Language Processing,False
+Towards Emotion-aided Multi-modal Dialogue Act Classification,Natural Language Processing,False
+Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,Natural Language Processing,False
+Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation,Natural Language Processing,False
+Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs,Natural Language Processing,False
+Towards Robustifying NLI Models Against Lexical Dataset Biases,Natural Language Processing,False
+Towards Transparent and Explainable Attention Models,Natural Language Processing,False
+Towards Understanding Gender Bias in Relation Extraction,Natural Language Processing,False
+Towards Unsupervised Language Understanding and Generation by Joint Dual Learning,Natural Language Processing,False
+Toxicity Detection: Does Context Really Matter?,Natural Language Processing,False
+Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction,Natural Language Processing,False
+Transition-based Semantic Dependency Parsing with Pointer Networks,Natural Language Processing,False
+"Translationese as a Language in ""Multilingual"" NMT",Natural Language Processing,False
+TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition,Natural Language Processing,False
+TVQA+: Spatio-Temporal Grounding for Video Question Answering,Natural Language Processing,False
+TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories,Natural Language Processing,False
+Uncertainty-Aware Curriculum Learning for Neural Machine Translation,Natural Language Processing,False
+Understanding Attention for Text Classification,Natural Language Processing,False
+Understanding the Language of Political Agreement and Disagreement in Legislative Texts,Natural Language Processing,False
+Universal Decompositional Semantic Parsing,Natural Language Processing,False
+Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification,Natural Language Processing,False
+Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering,Natural Language Processing,False
+Unsupervised Cross-lingual Representation Learning at Scale,Natural Language Processing,False
+Unsupervised Domain Clusters in Pretrained Language Models,Natural Language Processing,False
+Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,Natural Language Processing,False
+Unsupervised Morphological Paradigm Completion,Natural Language Processing,False
+Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,Natural Language Processing,False
+Unsupervised Opinion Summarization as Copycat-Review Generation,Natural Language Processing,False
+Unsupervised Opinion Summarization with Noising and Denoising,Natural Language Processing,False
+Unsupervised Paraphrasing by Simulated Annealing,Natural Language Processing,False
+USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation,Natural Language Processing,False
+Weight Poisoning Attacks on Pretrained Models,Natural Language Processing,False
+What are the Goals of Distributional Semantics?,Natural Language Processing,False
+What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks,Natural Language Processing,False
+What Question Answering can Learn from Trivia Nerds,Natural Language Processing,False
+What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context,Natural Language Processing,False
+When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,Natural Language Processing,False
+"""Who said it, and Why?"" Provenance for Natural Language Claims",Natural Language Processing,False
+WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge,Natural Language Processing,False
+Word-level Textual Adversarial Attacking as Combinatorial Optimization,Natural Language Processing,False
+XtremeDistil: Multi-stage Distillation for Massive Multilingual Models,Natural Language Processing,False
+You Impress Me: Dialogue Generation via Mutual Persona Perception,Natural Language Processing,False
+Zero-shot Text Classification via Reinforced Self-training,Natural Language Processing,False
+Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,Natural Language Processing,False
+ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages,Natural Language Processing,False
+A Complete Shift-Reduce Chinese Discourse Parser with Robust Dynamic Oracle,Natural Language Processing,False
+A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers,Natural Language Processing,False
+A Frame-based Sentence Representation for Machine Reading Comprehension,Natural Language Processing,False
+A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal,Natural Language Processing,False
+A Multi-Perspective Architecture for Semantic Code Search,Natural Language Processing,False
+A negative case analysis of visual grounding methods for VQA,Natural Language Processing,False
+A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing,Natural Language Processing,False
+A Re-evaluation of Knowledge Graph Completion Methods,Natural Language Processing,False
+A Relational Memory-based Embedding Model for Triple Classification and Search Personalization,Natural Language Processing,False
+A Relaxed Matching Procedure for Unsupervised BLI,Natural Language Processing,False
+A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation,Natural Language Processing,False
+A Simple and Effective Unified Encoder for Document-Level Machine Translation,Natural Language Processing,False
+A Tale of a Probe and a Parser,Natural Language Processing,False
+A Three-Parameter Rank-Frequency Relation in Natural Languages,Natural Language Processing,False
+A Transformer-based Approach for Source Code Summarization,Natural Language Processing,False
+A Two-Stage Masked LM Method for Term Set Expansion,Natural Language Processing,False
+A Two-Step Approach for Implicit Event Argument Detection,Natural Language Processing,False
+Active Learning for Coreference Resolution using Discrete Annotation,Natural Language Processing,False
+An Empirical Comparison of Unsupervised Constituency Parsing Methods,Natural Language Processing,False
+Analyzing the Persuasive Effect of Style in News Editorial Argumentation,Natural Language Processing,False
+Are we Estimating or Guesstimating Translation Quality?,Natural Language Processing,False
+Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization,Natural Language Processing,False
+Autoencoding Keyword Correlation Graph for Document Clustering,Natural Language Processing,False
+Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring,Natural Language Processing,False
+Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model,Natural Language Processing,False
+Bayesian Hierarchical Words Representation Learning,Natural Language Processing,False
+Benefits of Intermediate Annotations in Reading Comprehension,Natural Language Processing,False
+Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning,Natural Language Processing,False
+Character-Level Translation with Self-attention,Natural Language Processing,False
+ClarQ: A large-scale and diverse dataset for Clarification Question Generation,Natural Language Processing,False
+Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction,Natural Language Processing,False
+Clinical Concept Linking with Contextualized Neural Representations,Natural Language Processing,False
+Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain,Natural Language Processing,False
+Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling,Natural Language Processing,False
+"Code-switching patterns can be an effective route to improve performance of downstream NLP applications: A case study of humour, sarcasm and hate speech detection",Natural Language Processing,False
+Composing Elementary Discourse Units in Abstractive Summarization,Natural Language Processing,False
+Content Word Aware Neural Machine Translation,Natural Language Processing,False
+Contextual Embeddings: When Are They Worth It?,Natural Language Processing,False
+Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns,Natural Language Processing,False
+Contextualized Sparse Representations for Real-Time Open-Domain Question Answering,Natural Language Processing,False
+Contextualizing Hate Speech Classifiers with Post-hoc Explanation,Natural Language Processing,False
+Contrastive Self-Supervised Learning for Commonsense Reasoning,Natural Language Processing,False
+Controlled Crowdsourcing for High-Quality QA-SRL Annotation,Natural Language Processing,False
+Conversational Word Embedding for Retrieval-Based Dialog System,Natural Language Processing,False
+Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis,Natural Language Processing,False
+Crossing Variational Autoencoders for Answer Retrieval,Natural Language Processing,False
+DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference,Natural Language Processing,False
+Designing Precise and Robust Dialogue Response Evaluators,Natural Language Processing,False
+Dialogue State Tracking with Explicit Slot Connection Modeling,Natural Language Processing,False
+Do Transformers Need Deep Long-Range Memory?,Natural Language Processing,False
+Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods,Natural Language Processing,False
+Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation,Natural Language Processing,False
+Don't Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction,Natural Language Processing,False
+Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing,Natural Language Processing,False
+Dynamic Memory Induction Networks for Few-Shot Text Classification,Natural Language Processing,False
+Dynamic Sampling Strategies for Multi-Task Reading Comprehension,Natural Language Processing,False
+Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change,Natural Language Processing,False
+Efficient strategies for hierarchical text classification: external knowledge and auxiliary tasks,Natural Language Processing,False
+Embarrassingly Simple Unsupervised Aspect Extraction,Natural Language Processing,False
+Enabling Language Models to Fill in the Blanks,Natural Language Processing,False
+Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction,Natural Language Processing,False
+ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation,Natural Language Processing,False
+Enhancing Machine Translation with Dependency-Aware Self-Attention,Natural Language Processing,False
+Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention,Natural Language Processing,False
+Enriched In-Order Linearization for Faster Sequence-to-Sequence Constituent Parsing,Natural Language Processing,False
+Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification,Natural Language Processing,False
+Estimating Mutual Information Between Dense Word Embeddings,Natural Language Processing,False
+Evaluating Dialogue Generation Systems via Response Selection,Natural Language Processing,False
+Evaluating Robustness to Input Perturbations for Neural Machine Translation,Natural Language Processing,False
+Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks,Natural Language Processing,False
+ExpBERT: Representation Engineering with Natural Language Explanations,Natural Language Processing,False
+Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness,Natural Language Processing,False
+Exploring Content Selection in Summarization of Novel Chapters,Natural Language Processing,False
+Fact-based Content Weighting for Evaluating Abstractive Summarisation,Natural Language Processing,False
+"Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concepts",Natural Language Processing,False
+Few-Shot NLG with Pre-Trained Language Model,Natural Language Processing,False
+FLAT: Chinese NER Using Flat-Lattice Transformer,Natural Language Processing,False
+GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples,Natural Language Processing,False
+Geometry-aware domain adaptation for unsupervised alignment of word embeddings,Natural Language Processing,False
+"Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?",Natural Language Processing,False
+Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs,Natural Language Processing,False
+GPT-too: A language-model-first approach for AMR-to-text generation,Natural Language Processing,False
+How Can We Accelerate Progress Towards Human-like Linguistic Generalization?,Natural Language Processing,True
+Hypernymy Detection for Low-Resource Languages via Meta Learning,Natural Language Processing,False
+Identifying Principals and Accessories in a Complex Case based on the Comprehension of Fact Description,Natural Language Processing,False
+Implicit Discourse Relation Classification: We Need to Talk about Evaluation,Natural Language Processing,False
+Improved Speech Representations with Multi-Target Autoregressive Predictive Coding,Natural Language Processing,False
+Improving Entity Linking through Semantic Reinforced Entity Embeddings,Natural Language Processing,False
+Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling,Natural Language Processing,False
+Improving Non-autoregressive Neural Machine Translation with Monolingual Data,Natural Language Processing,False
+Incorporating External Knowledge through Pre-training for Natural Language to Code Generation,Natural Language Processing,False
+Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition,Natural Language Processing,False
+Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder,Natural Language Processing,False
+Interpreting Twitter User Geolocation,Natural Language Processing,False
+Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds,Natural Language Processing,False
+It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information,Natural Language Processing,False
+Keyphrase Generation for Scientific Document Retrieval,Natural Language Processing,False
+Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms,Natural Language Processing,False
+Language-aware Interlingua for Multilingual Neural Machine Translation,Natural Language Processing,False
+Learning an Unreferenced Metric for Online Dialogue Evaluation,Natural Language Processing,False
+Learning Implicit Text Generation via Feature Matching,Natural Language Processing,False
+Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment,Natural Language Processing,False
+Learning Robust Models for e-Commerce Product Search,Natural Language Processing,False
+Learning Spoken Language Representations with Neural Lattice Language Modeling,Natural Language Processing,False
+Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge,Natural Language Processing,False
+Learning to Understand Child-directed and Adult-directed Speech,Natural Language Processing,False
+Let Me Choose: From Verbal Context to Font Selection,Natural Language Processing,False
+Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation,Natural Language Processing,False
+Lexically Constrained Neural Machine Translation with Levenshtein Transformer,Natural Language Processing,False
+Lipschitz Constrained Parameter Initialization for Deep Transformers,Natural Language Processing,False
+Logic-Guided Data Augmentation and Regularization for Consistent Question Answering,Natural Language Processing,False
+Low Resource Sequence Tagging using Sentence Reconstruction,Natural Language Processing,False
+Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations,Natural Language Processing,False
+Masking Actor Information Leads to Fairer Political Claims Detection,Natural Language Processing,False
+Meta-Transfer Learning for Code-Switched Speech Recognition,Natural Language Processing,False
+Mitigating Gender Bias Amplification in Distribution by Posterior Regularization,Natural Language Processing,False
+Modeling Label Semantics for Predicting Emotional Reactions,Natural Language Processing,False
+Modeling Long Context for Task-Oriented Dialogue State Generation,Natural Language Processing,False
+Modeling Word Formation in English–German Neural Machine Translation,Natural Language Processing,False
+MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs,Natural Language Processing,False
+Multimodal and Multiresolution Speech Recognition with Transformers,Natural Language Processing,False
+Multimodal Quality Estimation for Machine Translation,Natural Language Processing,False
+Multimodal Transformer for Multimodal Machine Translation,Natural Language Processing,False
+Named Entity Recognition as Dependency Parsing,Natural Language Processing,False
+"Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",Natural Language Processing,False
+Neural Graph Matching Networks for Chinese Short Text Matching,Natural Language Processing,False
+Neural Temporal Opinion Modelling for Opinion Prediction on Twitter,Natural Language Processing,False
+Neural-DINF: A Neural Network based Framework for Measuring Document Inﬂuence,Natural Language Processing,False
+Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces,Natural Language Processing,False
+"""None of the Above"": Measure Uncertainty in Dialog Response Retrieval",Natural Language Processing,False
+"On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation",Natural Language Processing,False
+On Forgetting to Cite Older Papers: An Analysis of the ACL Anthology,Natural Language Processing,False
+On Importance Sampling-Based Evaluation of Latent Language Models,Natural Language Processing,False
+On the Importance of Diversity in Question Generation for QA,Natural Language Processing,False
+On the Spontaneous Emergence of Discrete and Compositional Signals,Natural Language Processing,False
+OpinionDigest: A Simple Framework for Opinion Summarization,Natural Language Processing,False
+Opportunistic Decoding with Timely Correction for Simultaneous Translation,Natural Language Processing,False
+Overestimation of Syntactic Representation in Neural Language Models,Natural Language Processing,False
+Parallel Data Augmentation for Formality Style Transfer,Natural Language Processing,False
+Parallel Sentence Mining by Constrained Decoding,Natural Language Processing,False
+Posterior Calibrated Training on Sentence Classification Tasks,Natural Language Processing,False
+Predicting Degrees of Technicality in Automatic Terminology Extraction,Natural Language Processing,False
+Pretrained Transformers Improve Out-of-Distribution Robustness,Natural Language Processing,False
+Quantifying Attention Flow in Transformers,Natural Language Processing,False
+Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases,Natural Language Processing,False
+R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason,Natural Language Processing,False
+Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models,Natural Language Processing,False
+Recursive Template-based Frame Generation for Task Oriented Dialog,Natural Language Processing,False
+Regularized Context Gates on Transformer for Machine Translation,Natural Language Processing,False
+Relation Extraction with Explanation,Natural Language Processing,False
+Representations of Syntax [MASK] Useful: Effects of Constituency and Dependency Structure in Recursive LSTMs,Natural Language Processing,False
+Returning the N to NLP: Towards Contextually Personalized Classification Models,Natural Language Processing,False
+Reverse Engineering Configurations of Neural Text Generation Models,Natural Language Processing,False
+Revisiting Higher-Order Dependency Parsers,Natural Language Processing,False
+Revisiting Unsupervised Relation Extraction,Natural Language Processing,False
+SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions,Natural Language Processing,False
+Self-Attention Guided Copy Mechanism for Abstractive Summarization,Natural Language Processing,False
+Self-Attention with Cross-Lingual Position Representation,Natural Language Processing,False
+Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity,Natural Language Processing,False
+Shape of synth to come: Why we should use synthetic data for English surface realization,Natural Language Processing,False
+Shaping Visual Representations with Language for Few-Shot Classification,Natural Language Processing,False
+Showing Your Work Doesn't Always Work,Natural Language Processing,False
+Simple and Effective Retrieve-Edit-Rerank Text Generation,Natural Language Processing,False
+Simultaneous Translation Policies: From Fixed to Adaptive,Natural Language Processing,False
+Single Model Ensemble using Pseudo-Tags and Distinct Vectors,Natural Language Processing,False
+Smart To-Do: Automatic Generation of To-Do Items from Emails,Natural Language Processing,False
+Social Biases in NLP Models as Barriers for Persons with Disabilities,Natural Language Processing,False
+Soft Gazetteers for Low-Resource Named Entity Recognition,Natural Language Processing,False
+Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,Natural Language Processing,False
+Stolen Probability: A Structural Weakness of Neural Language Models,Natural Language Processing,False
+Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture,Natural Language Processing,False
+SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization,Natural Language Processing,False
+Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi,Natural Language Processing,False
+Syntactic Data Augmentation Increases Robustness to Inference Heuristics,Natural Language Processing,False
+Tagged Back-translation Revisited: Why Does It Really Work?,Natural Language Processing,False
+tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection,Natural Language Processing,False
+Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering,Natural Language Processing,False
+Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference,Natural Language Processing,False
+Text Classification with Negative Supervision,Natural Language Processing,False
+To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks,Natural Language Processing,False
+Topological Sort for Sentence Ordering,Natural Language Processing,False
+Toward Better Storylines with Sentence-Level Language Models,Natural Language Processing,False
+Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization,Natural Language Processing,False
+Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations,Natural Language Processing,False
+Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?,Natural Language Processing,False
+Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation,Natural Language Processing,False
+Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering,Natural Language Processing,False
+Treebank Embedding Vectors for Out-of-domain Dependency Parsing,Natural Language Processing,False
+Tree-Structured Neural Topic Model,Natural Language Processing,False
+TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition,Natural Language Processing,False
+"Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data",Natural Language Processing,False
+Uncertain Natural Language Inference,Natural Language Processing,False
+Understanding Advertisements with BERT,Natural Language Processing,False
+Unsupervised FAQ Retrieval with Question Generation and BERT,Natural Language Processing,False
+Using Context in Neural Machine Translation Training Objectives,Natural Language Processing,False
+Variational Neural Machine Translation with Normalizing Flows,Natural Language Processing,False
+Verbal Multiword Expressions for Identification of Metaphor,Natural Language Processing,False
+Video-Grounded Dialogues with Pretrained Generation Language Models,Natural Language Processing,False
+What Does BERT with Vision Look At?,Natural Language Processing,False
+What is Learned in Visually Grounded Neural Syntax Acquisition,Natural Language Processing,False
+Why Overfitting Isn't Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries,Natural Language Processing,False
+Will-They-Won't-They: A Very Large Dataset for Stance Detection on Twitter,Natural Language Processing,False
+"Words aren't enough, their order matters: On the Robustness of Grounding Visual Referring Expressions",Natural Language Processing,False
+"Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation",Natural Language Processing,False
+Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences,Natural Language Processing,False
+You Don't Have Time to Read This: An Exploration of Document Reading Time Prediction,Natural Language Processing,False
+``You Sound Just Like Your Father'' Commercial Machine Translation Systems Include Stylistic Biases,Natural Language Processing,False
+ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT,Natural Language Processing,False
+"ADVISER: A Toolkit for Developing Multi-modal, Multi-domain and Socially-engaged Conversational Agents",Natural Language Processing,False
+BENTO: A Visual Platform for Building Clinical NLP Pipelines Based on CodaLab,Natural Language Processing,False
+Clinical-Coder: Assigning Interpretable ICD-10 Codes to Chinese Clinical Notes,Natural Language Processing,False
+CLIReval: Evaluating Machine Translation as a Cross-Lingual Information Retrieval Task,Natural Language Processing,False
+Conversation Learner - A Machine Teaching Tool for Building Dialog Managers for Task-Oriented Dialog Systems,Natural Language Processing,False
+"ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems",Natural Language Processing,False
+DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation,Natural Language Processing,False
+Embedding-based Scientific Literature Discovery in a Text Editor Application,Natural Language Processing,False
+ESPnet-ST: All-in-One Speech Translation Toolkit,Natural Language Processing,False
+EVIDENCEMINER: Textual Evidence Discovery for Life Sciences,Natural Language Processing,False
+exBERT: A Visual Analysis Tool to Explore Learned Representations in Transformer Models,Natural Language Processing,False
+GAIA: A Fine-grained Multimedia Knowledge Extraction System,Natural Language Processing,True
+Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations,Natural Language Processing,False
+jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models,Natural Language Processing,False
+Label Noise in Context,Natural Language Processing,False
+LEAN-LIFE: A Label-Efficient Annotation Framework Towards Learning from Explanation,Natural Language Processing,False
+LinggleWrite: a Coaching System for Essay Writing,Natural Language Processing,False
+MixingBoard: a Knowledgeable Stylized Integrated Text Generation Platform,Natural Language Processing,False
+"MMPE: A Multi-Modal Interface using Handwriting, Touch Reordering, and Speech Commands for Post-Editing Machine Translation",Natural Language Processing,False
+Multilingual Universal Sentence Encoder for Semantic Retrieval,Natural Language Processing,False
+Nakdan: Professional Hebrew Diacritizer,Natural Language Processing,False
+NLP Scholar: An Interactive Visual Explorer for Natural Language Processing Literature,Natural Language Processing,False
+NSTM: Real-Time Query-Driven News Overview Composition at Bloomberg,Natural Language Processing,False
+OpusFilter: A Configurable Parallel Corpus Filtering Toolbox,Natural Language Processing,False
+Penman: An Open-Source Library and Tool for AMR Graphs,Natural Language Processing,False
+Personalized PageRank with Syntagmatic Information for Multilingual Word Sense Disambiguation,Natural Language Processing,False
+Photon: A Robust Cross-Domain Text-to-SQL System,Natural Language Processing,False
+Prta: A System to Support the Analysis of Propaganda Techniques in the News,Natural Language Processing,True
+pyBART: Evidence-based Syntactic Transformations for IE,Natural Language Processing,False
+Stanza: A Python Natural Language Processing Toolkit for Many Human Languages,Natural Language Processing,False
+Stimulating Creativity with FunLines: A Case Study of Humor Generation in Headlines,Natural Language Processing,False
+SUPP.AI: finding evidence for supplement-drug interactions,Natural Language Processing,False
+Syntactic Search by Example,Natural Language Processing,False
+SyntaxGym: An Online Platform for Targeted Evaluation of Language Models,Natural Language Processing,False
+Tabouid: a Wikipedia-based word guessing game,Natural Language Processing,False
+Talk to Papers: Bringing Neural Question Answering to Academic Search,Natural Language Processing,False
+TextBrewer: An Open-Source Knowledge Distillation Toolkit for Natural Language Processing,Natural Language Processing,False
+The Microsoft Toolkit of Multi-Task Deep Neural Networks for Natural Language Understanding,Natural Language Processing,False
+Torch-Struct: Deep Structured Prediction Library,Natural Language Processing,True
+Trialstreamer: Mapping and Browsing Medical Evidence in Real-Time,Natural Language Processing,False
+Usnea: An Authorship Tool for Interactive Fiction using Retrieval Based Semantic Parsing,Natural Language Processing,False
+What's The Latest? A Question-driven News Chatbot,Natural Language Processing,False
+Xiaomingbot: A Multilingual Robot News Reporter,Natural Language Processing,False
+#NotAWhore! A Computational Linguistic Perspective of Rape Culture and Victimization on Social Media,Natural Language Processing,False
+A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples,Natural Language Processing,False
+A Simple and Effective Dependency parser for Telugu,Natural Language Processing,False
+Adaptive Transformers for Learning Multimodal Representations,Natural Language Processing,False
+AraDIC: Arabic Document Classification Using Image-Based Character Embeddings and Class-Balanced Loss,Natural Language Processing,False
+Building a Japanese Typo Dataset from Wikipedia's Revision History,Natural Language Processing,False
+Checkpoint Reranking: An Approach To Select Better Hypothesis For Neural Machine Translation Systems,Natural Language Processing,False
+Combining Subword Representations into Word-level Representations in the Transformer Architecture,Natural Language Processing,False
+Compositional generalization by factorizing alignment and translation,Natural Language Processing,False
+Considering Likelihood in NLP Classiﬁcation Explanations with Occlusion and Language Modeling,Natural Language Processing,False
+Crossing the Line: Where do Demographic Variables Fit into Humor Detection?,Natural Language Processing,False
+Cross-Lingual Disaster-related Multi-label Tweet Classification with Manifold Mixup,Natural Language Processing,False
+Dominance as an Indicator of Rapport and Learning in Human-Agent Communication,Natural Language Processing,False
+Effectively Aligning and Filtering Parallel Corpora under Sparse Data Conditions,Natural Language Processing,False
+Efficient Neural Machine Translation for Low-Resource Languages via Exploiting Related Languages,Natural Language Processing,False
+Embeddings of Label Components for Sequence Labeling: A Case Study of Fine-grained Named Entity Recognition,Natural Language Processing,False
+Enhancing Word Embeddings with Knowledge Extracted from Lexical Resources,Natural Language Processing,False
+Exploring Interpretability in Event Extraction: Multitask Learning of a Neural Event Classifier and an Explanation Decoder,Natural Language Processing,False
+Exploring the Role of Context to Distinguish Rhetorical and Information-Seeking Questions,Natural Language Processing,False
+Feature Difference Makes Sense: A medical image captioning model exploiting feature difference and tag information,Natural Language Processing,False
+Grammatical Error Correction Using Pseudo Learner Corpus Considering Learner's Error Tendency,Natural Language Processing,False
+HGCN4MeSH: Hybrid Graph Convolution Network for MeSH Indexing,Natural Language Processing,False
+How much complexity does an RNN architecture need to learn syntax-sensitive dependencies?,Natural Language Processing,False
+υBLEU: Uncertainty-Aware Automatic Evaluation Method for Open-Domain Dialogue Systems,Natural Language Processing,False
+Inducing Grammar from Long Short-Term Memory Networks by Shapley Decomposition,Natural Language Processing,False
+Let's be Humorous: Knowledge Enhanced Humor Generation,Natural Language Processing,False
+Logical Inferences with Comparatives and Generalized Quantifiers,Natural Language Processing,False
+"Media Bias, the Social Sciences, and NLP: Automating Frame Analyses to Identify Bias by Word Choice and Labeling",Natural Language Processing,False
+Multi-Task Neural Model for Agglutinative Language Translation,Natural Language Processing,False
+Noise-Based Augmentation Techniques for Emotion Datasets: What do we Recommend?,Natural Language Processing,False
+Non-Topical Coherence in Social Talk: A Call for Dialogue Model Enrichment,Natural Language Processing,False
+Pointwise Paraphrase Appraisal is Potentially Problematic,Natural Language Processing,False
+Pre-training via Leveraging Assisting Languages for Neural Machine Translation,Natural Language Processing,False
+Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation,Natural Language Processing,False
+Reflection-based Word Attribute Transfer,Natural Language Processing,False
+Research on Task Discovery for Transfer Learning in Deep Neural Networks,Natural Language Processing,False
+Research Replication Prediction Using Weakly Supervised Learning,Natural Language Processing,False
+RPD: A Distance Function Between Word Embeddings,Natural Language Processing,False
+SCAR: Sentence Compression using Autoencoders for Reconstruction,Natural Language Processing,False
+Self-Attention is Not Only a Weight: Analyzing BERT with Vector Norms,Natural Language Processing,False
+Story-level Text Style Transfer: A Proposal,Natural Language Processing,False
+To compress or not to compress? A Finite-State approach to Nen verbal morphology,Natural Language Processing,False
+Topic balancing with additive regularization of topic models,Natural Language Processing,False
+Transferring Monolingual Model to Low-Resource Language: The Case of Tigrinya,Natural Language Processing,False
+Understanding Points of Correspondence between Sentences for Abstractive Summarization,Natural Language Processing,False
+Unsupervised Multilingual Sentence Embeddings for Parallel Corpus Mining,Natural Language Processing,False
+Unsupervised Paraphasia Classification in Aphasic Speech,Natural Language Processing,False
+Why is penguin more similar to polar bear than to sea gull? Analyzing conceptual knowledge in distributional models,Natural Language Processing,False
+Zero-shot North Korean to English Neural Machine Translation by Character Tokenization and Phoneme Decomposition,Natural Language Processing,False

@@ -1,339 +1,339 @@
 Title,Category,Best Paper
-A Block Decomposition Algorithm for Sparse Optimization,Data Mining,FALSE
-A causal look at statistical definitions of discrimination,Data Mining,FALSE
-A Data Driven Graph Generative Model for Temporal Interaction Networks,Data Mining,FALSE
-A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks,Data Mining,FALSE
-A Geometric Approach to Predicting Bounds of Downstream Model Performance,Data Mining,FALSE
-A Non-Iterative Quantile Change Detection Method in Mixture Model with Heavy-Tailed Components,Data Mining,FALSE
-A Novel Deep Learning Model by Stacking Conditional Restricted Boltzmann Machine and Deep Neural Network,Data Mining,FALSE
-Adaptive Graph Encoder for Attributed Graph Embedding,Data Mining,FALSE
-Adversarial Infidelity Learning for Model Interpretation,Data Mining,FALSE
-AdvMind: Inferring Adversary Intent of Black-Box Attacks,Data Mining,FALSE
-Algorithmic Aspects of Temporal Betweenness,Data Mining,FALSE
-Algorithmic Decision Making with Conditional Fairness,Data Mining,FALSE
-Aligning Superhuman AI with Human Behavior: Chess as a Model System,Data Mining,FALSE
-ALO-NMF: Accelerated Locality-Optimized Non-negative Matrix Factorization,Data Mining,FALSE
-AM-GCN: Adaptive Multi-channel Graph Convolutional Networks,Data Mining,FALSE
-An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph,Data Mining,FALSE
-An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks,Data Mining,FALSE
-ASGN: An Active Semi-supervised  Graph Neural Network for Molecular Property Prediction,Data Mining,FALSE
-Attackability Characterization of Adversarial Evasion Attack on Discrete Data,Data Mining,FALSE
-Attention and Memory-Augmented Networks for Dual-View Sequential Learning,Data Mining,FALSE
-Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data,Data Mining,FALSE
-AutoGrow: Automatic Layer Growing in Deep Convolutional Networks,Data Mining,FALSE
-AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space,Data Mining,FALSE
-AutoShuffleNet: Learning Permutation Matrices via an Exact Lipschitz Continuous Penalty in Deep Convolutional Neural Networks,Data Mining,FALSE
-AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction,Data Mining,FALSE
-Average Sensitivity of Spectral Clustering,Data Mining,FALSE
-BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals,Data Mining,FALSE
-Block Model Guided Unsupervised Feature Selection,Data Mining,FALSE
-BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision,Data Mining,FALSE
-CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data,Data Mining,FALSE
-Catalysis Clustering With GAN By Incorporating Domain Knowledge,Data Mining,FALSE
-Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations,Data Mining,FALSE
-CICLAD: A Fast and Memory-efficient Closed Itemset Miner for Streams,Data Mining,FALSE
-Combinatorial Black-Box Optimization with Expert Advice,Data Mining,FALSE
-Competitive Analysis for Points of Interest,Data Mining,FALSE
-COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching,Data Mining,FALSE
-Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems,Data Mining,FALSE
-Connecting the Dots:  Multivariate Time Series Forecasting with Graph Neural Networks,Data Mining,FALSE
-Context-to-Session Matching: Utilizing Whole Session for Response Selection in Information-Seeking Dialogue Systems,Data Mining,FALSE
-CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring,Data Mining,FALSE
-Correlation Networks for Extreme Multi-label Text Classification,Data Mining,FALSE
-Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions,Data Mining,FALSE
-Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks,Data Mining,FALSE
-CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis,Data Mining,FALSE
-Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning,Data Mining,FALSE
-Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction,Data Mining,FALSE
-Deep Learning of High-Order Interactions for Protein Interface Prediction,Data Mining,FALSE
-Deep State-Space Generative Model For Correlated Time-to-Event Predictions,Data Mining,FALSE
-DeepLine: AutoML Tool for Pipelines Generation using Deep Reinforcement Learning and Hierarchical Actions Filtering,Data Mining,FALSE
-DeepSinger: Singing Voice Synthesis with Data Mined From the Web,Data Mining,FALSE
-DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation,Data Mining,FALSE
-Directional Multivariate Ranking,Data Mining,FALSE
-Discovering Approximate Functional Dependencies using Smoothed Mutual Information,Data Mining,FALSE
-Discovering Functional Dependencies from Mixed-Type Data,Data Mining,FALSE
-Discovering Succinct Pattern Sets Expressing Co-Occurrence and Mutual Exclusivity,Data Mining,FALSE
-Disentangled Self-Supervision in Sequential Recommenders,Data Mining,FALSE
-Diverse Rule Sets,Data Mining,FALSE
-Dual Channel Hypergraph Collaborative Filtering,Data Mining,FALSE
-Dynamic Knowledge Graph based Multi-Event Forecasting,Data Mining,FALSE
-Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data,Data Mining,FALSE
-Efficient Algorithm for the b-Matching Graph,Data Mining,FALSE
-Enterprise Cooperation and Competition Analysis with Sign-Oriented Preference Network,Data Mining,FALSE
-Estimating Properties of Social Networks via Random Walk considering Private Nodes,Data Mining,FALSE
-Estimating the Percolation Centrality of Large Networks through Pseudo-dimension Theory,Data Mining,FALSE
-Evaluating Conversational Recommender Systems via User Simulation,Data Mining,FALSE
-Evaluating Fairness using Permutation Tests,Data Mining,FALSE
-Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns,Data Mining,FALSE
-Feature-Induced Manifold Disambiguation for Multi-View Partial Multi-label Learning,Data Mining,FALSE
-FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems,Data Mining,FALSE
-Finding Effective Geo-social Group for Impromptu Activities with Diverse Demands,Data Mining,FALSE
-FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents,Data Mining,FALSE
-From Online to Non-i.i.d. Batch Learning,Data Mining,FALSE
-GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training,Data Mining,FALSE
-Generic Outlier Detection in Multi-Armed Bandit,Data Mining,FALSE
-Geodesic Forests,Data Mining,FALSE
-Geography-Aware Sequential Location Recommendation,Data Mining,FALSE
-GHashing: Semantic Graph Hashing for Approximate Similarity Search in Graph Databases,Data Mining,FALSE
-GPT-GNN: Generative Pre-Training of Graph Neural Networks,Data Mining,FALSE
-GRACE: Generating Concise and Informative Contrastive Sample to Explain Neural Network Model,Data Mining,FALSE
-Grammatically Recognizing Images with Tree Convolution,Data Mining,FALSE
-Graph Attention Networks over Edge  Content-Based Channels,Data Mining,FALSE
-Graph Structural-topic Neural Network,Data Mining,FALSE
-Graph Structure Learning for Robust Graph Neural Networks,Data Mining,FALSE
-Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting,Data Mining,FALSE
-Handling Information Loss of Graph Neural Networks for Session-based Recommendation,Data Mining,FALSE
-Heidegger: Interpretable Temporal Causal Discovery,Data Mining,FALSE
-HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification,Data Mining,FALSE
-HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness,Data Mining,FALSE
-Hierarchical Attention Propagation for Healthcare Representation Learning,Data Mining,FALSE
-Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding,Data Mining,FALSE
-High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder,Data Mining,FALSE
-Higher-order Clustering in Complex Heterogeneous Networks,Data Mining,FALSE
-HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records,Data Mining,FALSE
-HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units,Data Mining,FALSE
-HOPS: Probabilistic Subtree Mining for Small and Large Graphs,Data Mining,FALSE
-"How to count triangles, without seeing the whole graph",Data Mining,FALSE
-Hyperbolic Distance Matrices,Data Mining,FALSE
-Hypergraph Clustering Based on PageRank,Data Mining,FALSE
-Identifying Sepsis Subphenotypes via Time-Aware Multi-Modal Auto-Encoder,Data Mining,FALSE
-Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion,Data Mining,FALSE
-Imputing Various Incomplete Attributes via Distance Likelihood Maximization,Data Mining,FALSE
-In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints,Data Mining,FALSE
-Incremental Lossless Graph Summarization,Data Mining,FALSE
-Incremental Mobile User Profiling:  Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams,Data Mining,FALSE
-InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity,Data Mining,FALSE
-InFoRM: Individual Fairness on Graph Mining,Data Mining,FALSE
-INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare,Data Mining,FALSE
-Interactive Path Reasoning on Graph for Conversational Recommendation,Data Mining,FALSE
-Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense,Data Mining,FALSE
-Interpretable Deep Graph Generation with Node-edge Co-disentanglement,Data Mining,FALSE
-Isolation Distributional Kernel: A new tool for kernel based anomaly detection,Data Mining,FALSE
-Joint Policy-Value Learning for Recommendation,Data Mining,FALSE
-Kernel Assisted Learning for Personalized Dose Finding,Data Mining,FALSE
-Kronecker Attention Networks,Data Mining,FALSE
-Laplacian Change Point Detection for Dynamic Graphs,Data Mining,FALSE
-LayoutLM: Pre-training of Text and Layout for Document Image Understanding,Data Mining,FALSE
-Learning Based Distributed Tracking,Data Mining,FALSE
-Learning Effective Road Network Representation with Hierarchical Graph Neural Networks,Data Mining,FALSE
-Learning Opinion Dynamics From Social Traces,Data Mining,FALSE
-Learning Stable Graphs from Heterogeneous Confounded Environments,Data Mining,FALSE
-Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach,Data Mining,FALSE
-Learning Transferrable Parameters for Long-tailed Sequential User Behavior Modeling,Data Mining,FALSE
-Leveraging Model Inherent Variable Importance for Stable Online Feature Selection,Data Mining,FALSE
-List-wise Fairness Criterion for Point Processes,Data Mining,FALSE
-Local Community Detection in Multiple Networks,Data Mining,FALSE
-Local Motif Clustering on Time-Evolving Graphs,Data Mining,FALSE
-LogPar: Logistic PARAFAC2 Factorization for Temporal Binary Data with Missing Values,Data Mining,FALSE
-Malicious Attacks against Deep Reinforcement Learning Interpretations,Data Mining,TRUE
-MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation,Data Mining,FALSE
-Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness,Data Mining,FALSE
-MCRapper: Monte-Carlo Rademacher Averages for Poset Families and Approximate Pattern Mining,Data Mining,FALSE
-Measuring Model Complexity of Neural Networks with Curve Activation Functions,Data Mining,FALSE
-Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation,Data Mining,FALSE
-Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks,Data Mining,FALSE
-Minimizing Localized Ratio Cut Objectives in Hypergraphs,Data Mining,FALSE
-Mining large quasi-cliques with quality guarantees from vertex neighborhoods,Data Mining,FALSE
-Mining Persistent Activity in Continually Evolving Networks,Data Mining,FALSE
-MinSearch: An Efficient Algorithm for Similarity Search under Edit Distance,Data Mining,FALSE
-Missing Value Imputation for Mixed Data via Gaussian Copula,Data Mining,FALSE
-MoFlow: An Invertible Flow Model for Generating Molecular Graphs,Data Mining,FALSE
-Multi-class Data Description for Out-of-distribution Detection,Data Mining,FALSE
-Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction,Data Mining,FALSE
-Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data,Data Mining,FALSE
-MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals,Data Mining,FALSE
-Multimodal Learning with Incomplete Modalities by Knowledge Distillation,Data Mining,FALSE
-NetTrans: Neural Cross-Network Transformation,Data Mining,FALSE
-Neural Dynamics on Complex Networks,Data Mining,FALSE
-Neural Subgraph Isomorphism Counting,Data Mining,FALSE
-NodeAug: Semi-Supervised Node Classification with Data Augmentation,Data Mining,FALSE
-Non-Linear Mining of Social Activities in Tensor Streams,Data Mining,FALSE
-Off-policy Bandits with Deficient Support,Data Mining,FALSE
-On Sampled Metrics for Item Recommendation,Data Mining,TRUE
-On Sampling Top-K Recommendation Evaluation,Data Mining,FALSE
-Parallel DNN Inference Framework Leveraging a Compact RISC-V ISA-based Multi-core System,Data Mining,FALSE
-Parameterized Correlation Clustering in Hypergraphs and Bipartite Graphs,Data Mining,FALSE
-Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism,Data Mining,FALSE
-"Personalized PageRank to a Target Node, Revisited",Data Mining,FALSE
-PolicyGNN: Aggregation Optimization for Graph Neural Networks,Data Mining,FALSE
-Predicting Temporal Sets with Deep Neural Networks,Data Mining,FALSE
-Prediction and Profiling of Audience Competition for Online Television Series,Data Mining,FALSE
-Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction,Data Mining,FALSE
-Prioritized Restreaming Algorithms for Balanced Graph Partitioning,Data Mining,FALSE
-Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation,Data Mining,FALSE
-RayS: A Ray Searching Method for Hard-label Adversarial Attack,Data Mining,FALSE
-Re-identification Attack to Privacy-Preserving Data Analysis with Noisy Sample-Mean,Data Mining,FALSE
-REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs,Data Mining,FALSE
-Reciptor: An Effective Pretrained Model for Recipe Representation Learning,Data Mining,FALSE
-RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift,Data Mining,FALSE
-Recurrent Halting Chain for Early Multi-label Classification,Data Mining,FALSE
-Recurrent Networks for Guided Multi-Attention Classification,Data Mining,FALSE
-Redundancy-Free Computation for Graph Neural Networks,Data Mining,FALSE
-Representing Temporal Attributes for Schema Matching,Data Mining,FALSE
-Residual Correlation in Graph Neural Network Regression,Data Mining,FALSE
-Rethinking Pruning for Accelerating Deep Inference At the Edge,Data Mining,FALSE
-Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks,Data Mining,FALSE
-Rich Information is Affordable: A Systematic Performance Analysis of Second-order Optimization Using K-FAC,Data Mining,FALSE
-Robust Spammer Detection by Nash Reinforcement Learning,Data Mining,FALSE
-Scaling choice models of relational social data,Data Mining,FALSE
-SCE: Scalable Newtork Embedding from Sparsest Cut,Data Mining,FALSE
-SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks,Data Mining,FALSE
-Semantic Search in Millions of Equations,Data Mining,FALSE
-Semi-supervised Collaborative Filtering by Text-enhanced Domain Adaptation,Data Mining,FALSE
-Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model,Data Mining,FALSE
-Sliding Sketches: A Framework using Time Zones for Data Stream Processing in Sliding Windows,Data Mining,FALSE
-Spectrum-Guided Adversarial Disparity Learning,Data Mining,FALSE
-SSumM: Sparse Summarization of Massive Graphs,Data Mining,FALSE
-ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification,Data Mining,FALSE
-Stable Learning via Differentiated Variable Decorrelation,Data Mining,FALSE
-Statistically Significant Pattern Mining with Ordinal Utility,Data Mining,FALSE
-STEAM: Self-Supervised Taxonomy Expansion via Path-Based Multi-View Co-Training,Data Mining,FALSE
-Structural Patterns and Generative Models of Real-world Hypergraphs,Data Mining,FALSE
-TAdaNet: Task-Adaptive Network for Graph-Enriched Meta-Learning,Data Mining,FALSE
-Targeted Data-driven Regularization for Out-of-Distribution Generalization,Data Mining,FALSE
-The NodeHopper: Enabling low latency ranking with constraints via a fast dual solver,Data Mining,FALSE
-The Spectral Zoo of Networks: Embedding and Visualizing Networks with Spectral Moments,Data Mining,FALSE
-Tight Sensitivity Bounds For Smaller Coresets,Data Mining,FALSE
-TinyGNN: Learning Efficient Graph Neural Networks,Data Mining,FALSE
-TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations,Data Mining,TRUE
-Towards Automated Neural Interaction Discovering for Click-Through Rate Prediction,Data Mining,FALSE
-Towards Deeper Graph Neural Networks,Data Mining,FALSE
-Towards Fair Truth Discovery from Biased Crowdsourced Answers,Data Mining,FALSE
-Towards physics-informed deep learning for turbulent flow prediction,Data Mining,FALSE
-TranSlider: Transfer Ensemble Learning from Exploitation to Exploration,Data Mining,FALSE
-Treatment Policy Learning in Multiobjective Settings with Fully Observed Outcomes,Data Mining,FALSE
-Truth Discovery against Strategic Sybil Attack in Crowdsourcing,Data Mining,FALSE
-Ultrafast Local Outlier Detection from a Data Stream with Stationary Region Skipping,Data Mining,FALSE
-Understanding Negative Sampling in Graph Representation Learning,Data Mining,FALSE
-Unsupervised Differentiable Multi-aspect Network Embedding,Data Mining,FALSE
-Unsupervised Paraphrasing via Deep Reinforcement Learning,Data Mining,FALSE
-Vamsa: Automated Provenance Tracking in Data Science Scripts,Data Mining,FALSE
-Voronoi Graph Traversal in High Dimensions with Applications to Topological Data Analysis and Piecewise Linear Interpolation,Data Mining,FALSE
-Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning,Data Mining,FALSE
-WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams,Data Mining,FALSE
-WeightGrad: Geo-Distributed Data Analysis Using Quantization for Faster Convergence and Better Accuracy,Data Mining,FALSE
-xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis,Data Mining,FALSE
-XGNN: Towards Model-Level Explanations of Graph Neural Networks,Data Mining,FALSE
-Z-Miner: an efficient method for mining frequent arrangements of event intervals,Data Mining,FALSE
-A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce,Data Mining,FALSE
-A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation,Data Mining,FALSE
-A Self-Evolving Mutually-Operative Recurrent Network-based Model for Online Tool Condition Monitoring in Delay Scenario,Data Mining,FALSE
-"A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications",Data Mining,FALSE
-Acoustic Measures for Real-Time Voice Coaching,Data Mining,FALSE
-Ads Allocation in Feed via Constrained Optimization,Data Mining,FALSE
-"An Automatic Approach for Generating Rich, Linked Geo-Metadata from Historical Map Images",Data Mining,FALSE
-An Empirical Analysis of Backward Compatibility in Machine Learning Systems,Data Mining,FALSE
-Attention based multi-modal new product sales time-series forecasting,Data Mining,FALSE
-Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies,Data Mining,FALSE
-AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction,Data Mining,FALSE
-AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types,Data Mining,FALSE
-Automatic Validation of Textual Attribute Values in ECommerce Catalog by Learning with Limited Labeled Data,Data Mining,FALSE
-Balanced Order Batching with Task-Oriented Graph Clustering,Data Mining,FALSE
-Bandit based Optimization of Multiple Objectives on a Music Streaming Platform,Data Mining,FALSE
-Bootstrapping Complete The Look at Pinterest,Data Mining,FALSE
-Building Continuous Integration Services for Machine Learning,Data Mining,FALSE
-BusTr: predicting bus travel times from real-time traffic,Data Mining,FALSE
-Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors,Data Mining,FALSE
-Cascade-LSTM: A Tree-Structured Neural Classifier for Detecting Misinformation Cascades,Data Mining,FALSE
-Category-Specific CNN for Visual-aware CTR Prediction at JD.com,Data Mining,FALSE
-Causal Meta-Mediation Analysis Inferring Dose-Response Function From Summary Statistics of Many Randomized Experiments,Data Mining,FALSE
-Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks,Data Mining,FALSE
-Characterizing and Learning Representation on Customer Contact Journeys in Cellular Services,Data Mining,FALSE
-City Metro Network Expansion with Reinforcement Learning,Data Mining,FALSE
-CLARA: Confidence of Labels and Raters,Data Mining,FALSE
-Climate Downscaling Using YNet: a Deep Convolutional Network with Skip Connections and Fusion,Data Mining,FALSE
-Combo-Attention Network for Baidu Video Advertising,Data Mining,FALSE
-CompactETA: A Fast Inference System for Travel Time Prediction,Data Mining,FALSE
-Comprehensive Information Integration Modeling Framework for Video Titling,Data Mining,FALSE
-ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps,Data Mining,FALSE
-Contagious Chain Risk Rating for Networked-guarantee Loans,Data Mining,FALSE
-Context-Aware Attentive Knowledge Tracing,Data Mining,FALSE
-Controllable Multi-Interest Framework for Recommendation,Data Mining,FALSE
-Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts,Data Mining,FALSE
-Cracking the Black Box: Distilling Deep Sports Analytics,Data Mining,FALSE
-CrowdQuake: A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning,Data Mining,FALSE
-DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection,Data Mining,FALSE
-Debiasing Grid-based Product Search in E-commerce,Data Mining,FALSE
-DeepTriage: Automated Transfer Assistance for Incidents in Cloud Services,Data Mining,FALSE
-Delivery Scope: A New Way of Restaurant Retrieval For On-demand Food Delivery Service,Data Mining,FALSE
-Doing in One Go: Delivered Time Inference Based on Coueriers' Trajectories,Data Mining,FALSE
-Domain Specific Knowledge Graphs as a Service to the Public,Data Mining,FALSE
-Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction,Data Mining,FALSE
-Easy Perturbation EEG Algorithm for Spectral Importance (easyPEASI): A simple method to identify important spectral features of EEG in deep learning models,Data Mining,FALSE
-Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach,Data Mining,FALSE
-Embedding-based Retrieval in Facebook Search,Data Mining,FALSE
-Explainable classification of brain networks via contrast subgraphs,Data Mining,FALSE
-Faster Secure Data Mining via Distributed Homomorphic Encryption,Data Mining,FALSE
-Federated Doubly Stochastic Kernel Learning for  Vertically Partitioned Data,Data Mining,FALSE
-Fitbit for Chickens? Time Series Data Mining Can Increase the Productivity of Poultry Farms,Data Mining,FALSE
-Forecasting the Evolution of Hydropower Generation,Data Mining,FALSE
-Fraud Transactions Detection via Behavior Tree with Local Intention Calibration,Data Mining,FALSE
-Game Action Modeling for Fine Grained Analyses of Player Behavior in Multi-player Card Games (Rummy as case study),Data Mining,FALSE
-Gemini: A novel and universal heterogeneous graph information fusing framework for online recommendations,Data Mining,FALSE
-General-Purpose User Embeddings based on Mobile App Usage,Data Mining,FALSE
-Geodemographic Influence Maximization,Data Mining,FALSE
-Grale: Designing Networks for Graph Learning,Data Mining,FALSE
-GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce,Data Mining,FALSE
-HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival,Data Mining,FALSE
-Hubble: an Industrial System for Audience Expansion in Mobile Marketing,Data Mining,FALSE
-Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data,Data Mining,FALSE
-Hypergraph Convolutional Recurrent Neural Network,Data Mining,FALSE
-Identifying Homeless Youth At-Risk of Substance Use Disorder: Data-Driven Insights for Policymakers,Data Mining,FALSE
-Improving Deep Learning For Airbnb Search,Data Mining,FALSE
-Improving Movement Predictions of Traffic Actors in Bird's-Eye View Models using GANs and Differentiable Trajectory Rasterizatio,Data Mining,FALSE
-Improving Recommendation Quality in Google Drive,Data Mining,FALSE
-Intelligent Exploration for User Interface Modules of Mobile App with Collective Learning,Data Mining,FALSE
-Interleaved Sequence RNNs for Fraud Detection,Data Mining,FALSE
-Jointly Learning to Recommend and Advertise,Data Mining,FALSE
-"Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps",Data Mining,FALSE
-Large-Scale Training System for 100-Million Classification at Alibaba,Data Mining,FALSE
-Learning instrument invariant characteristics for generating high-resolution global coral reef maps,Data Mining,FALSE
-Learning to Cluster Documents into Workspaces Using Large Scale Activity Logs,Data Mining,FALSE
-Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach,Data Mining,FALSE
-Learning to score economic development from satellite imagery,Data Mining,FALSE
-Learning with Limited Labels via Momentum Damped Differentially Weighted Training,Data Mining,FALSE
-LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition,Data Mining,FALSE
-LUMOS: A library for diagnosing metric regressions for web-scale applications,Data Mining,FALSE
-M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems,Data Mining,FALSE
-Managing Diversity in Airbnb Search,Data Mining,FALSE
-Map Generation from Large Scale Incomplete and Inaccurate Data Labels,Data Mining,FALSE
-Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective,Data Mining,FALSE
-Meta-Learning for Query Conceptualization at Web Scale,Data Mining,FALSE
-Mining Implicit Relevance Feedback from User Behavior for Web Question Answering,Data Mining,FALSE
-Molecular Inverse-Design Platform for Material Industries,Data Mining,FALSE
-Multi Modal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery,Data Mining,FALSE
-Multi-objective Optimization for Guaranteed Delivery in Video Service Platform,Data Mining,FALSE
-MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks,Data Mining,FALSE
-Multitask Mixture of Sequential Experts for User Activity Streams,Data Mining,FALSE
-Neural Input Search for Large Scale Recommendation Models,Data Mining,FALSE
-Octet: Online Catalog Taxonomy Enrichment with Self-Supervision,Data Mining,FALSE
-OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena,Data Mining,FALSE
-Order Fulfillment Cycle Time Estimation for On-Demand Food Delivery,Data Mining,FALSE
-Personalized Image Retrieval with Sparse Graph Representation Learning,Data Mining,FALSE
-Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps,Data Mining,FALSE
-Pest management in cotton farms: an AI-system case study from the global South,Data Mining,FALSE
-PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest,Data Mining,FALSE
-"Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine",Data Mining,FALSE
-Predicting Individual Treatment Effects of Large-scale Team Competitions in a Ride-sharing Economy,Data Mining,FALSE
-Prediction of Hourly Earnings and Completion Time on a Crowdsourcing Platform,Data Mining,FALSE
-Price Investment using Prescriptive Analytics and Optimization in Retail,Data Mining,FALSE
-Privileged Features Distillation at Taobao Recommendations,Data Mining,FALSE
-Reconstruction and Decomposition of High-Dimensional Landscapes via Unsupervised Learning,Data Mining,FALSE
-Salience and Market-aware Skill Extraction for Job Targeting,Data Mining,FALSE
-Scaling Graph Neural Networks with Approximate PageRank,Data Mining,FALSE
-Shop The Look: Building a Large Scale Visual Shopping System at Pinterest,Data Mining,FALSE
-SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter,Data Mining,FALSE
-Sub-Matrix Factorization for Real-Time Vote Prediction,Data Mining,FALSE
-Taming Pretrained Transformers for eXtreme Multi-label Text Classification,Data Mining,FALSE
-Temporal-Contextual Recommendation in Real-Time,Data Mining,TRUE
-TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook,Data Mining,FALSE
-Time-Aware User Embeddings as a Service,Data Mining,FALSE
-TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding,Data Mining,FALSE
-To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics,Data Mining,FALSE
-Towards Building an Intelligent Chatbot for Customer Service: Learning to Respond at the Appropriate Time,Data Mining,FALSE
-Two Sides of the Same Coin:  White-box and Black-box Attacks for Transfer Learning,Data Mining,FALSE
-Unsupervised Translation via Hierarchical Anchoring: Functional Mapping of Places across Cities,Data Mining,FALSE
-USAD : UnSupervised Anomaly Detection on multivariate time series,Data Mining,FALSE
-User Sentiment as a Success Metric: Persistent Biases Under Full Randomization,Data Mining,FALSE
-What is that Building? An End-to-end System for Building Recognition from Streetside Images,Data Mining,FALSE
+A Block Decomposition Algorithm for Sparse Optimization,Data Mining,False
+A causal look at statistical definitions of discrimination,Data Mining,False
+A Data Driven Graph Generative Model for Temporal Interaction Networks,Data Mining,False
+A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks,Data Mining,False
+A Geometric Approach to Predicting Bounds of Downstream Model Performance,Data Mining,False
+A Non-Iterative Quantile Change Detection Method in Mixture Model with Heavy-Tailed Components,Data Mining,False
+A Novel Deep Learning Model by Stacking Conditional Restricted Boltzmann Machine and Deep Neural Network,Data Mining,False
+Adaptive Graph Encoder for Attributed Graph Embedding,Data Mining,False
+Adversarial Infidelity Learning for Model Interpretation,Data Mining,False
+AdvMind: Inferring Adversary Intent of Black-Box Attacks,Data Mining,False
+Algorithmic Aspects of Temporal Betweenness,Data Mining,False
+Algorithmic Decision Making with Conditional Fairness,Data Mining,False
+Aligning Superhuman AI with Human Behavior: Chess as a Model System,Data Mining,False
+ALO-NMF: Accelerated Locality-Optimized Non-negative Matrix Factorization,Data Mining,False
+AM-GCN: Adaptive Multi-channel Graph Convolutional Networks,Data Mining,False
+An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph,Data Mining,False
+An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks,Data Mining,False
+ASGN: An Active Semi-supervised  Graph Neural Network for Molecular Property Prediction,Data Mining,False
+Attackability Characterization of Adversarial Evasion Attack on Discrete Data,Data Mining,False
+Attention and Memory-Augmented Networks for Dual-View Sequential Learning,Data Mining,False
+Attentional Multi-graph Convolutional Network for Regional Economy Prediction with Open Migration Data,Data Mining,False
+AutoGrow: Automatic Layer Growing in Deep Convolutional Networks,Data Mining,False
+AutoML Pipeline Selection: Efficiently Navigating the Combinatorial Space,Data Mining,False
+AutoShuffleNet: Learning Permutation Matrices via an Exact Lipschitz Continuous Penalty in Deep Convolutional Neural Networks,Data Mining,False
+AutoST: Efficient Neural Architecture Search for Spatio-Temporal Prediction,Data Mining,False
+Average Sensitivity of Spectral Clustering,Data Mining,False
+BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals,Data Mining,False
+Block Model Guided Unsupervised Feature Selection,Data Mining,False
+BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision,Data Mining,False
+CAST: A Correlation-based Adaptive Spectral Clustering Algorithm on Multi-scale Data,Data Mining,False
+Catalysis Clustering With GAN By Incorporating Domain Knowledge,Data Mining,False
+Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations,Data Mining,False
+CICLAD: A Fast and Memory-efficient Closed Itemset Miner for Streams,Data Mining,False
+Combinatorial Black-Box Optimization with Expert Advice,Data Mining,False
+Competitive Analysis for Points of Interest,Data Mining,False
+COMPOSE: Cross-Modal Pseudo-Siamese Network for Patient Trial Matching,Data Mining,False
+Compositional Embeddings Using Complementary Partitions for Memory-Efficient Recommendation Systems,Data Mining,False
+Connecting the Dots:  Multivariate Time Series Forecasting with Graph Neural Networks,Data Mining,False
+Context-to-Session Matching: Utilizing Whole Session for Response Selection in Information-Seeking Dialogue Systems,Data Mining,False
+CoRel: Seed-Guided Topical Taxonomy Construction by Concept Learning and Relation Transferring,Data Mining,False
+Correlation Networks for Extreme Multi-label Text Classification,Data Mining,False
+Counterfactual Evaluation of Slate Recommendations with Sequential Reward Interactions,Data Mining,False
+Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks,Data Mining,False
+CurvaNet: Geometric Deep Learning based on Multi-scale Directional Curvature for 3D Shape Analysis,Data Mining,False
+Data Compression as a Comprehensive Framework for Graph Drawing and Representation Learning,Data Mining,False
+Deep Exogenous and Endogenous Influence Combination for Social Chatter Intensity Prediction,Data Mining,False
+Deep Learning of High-Order Interactions for Protein Interface Prediction,Data Mining,False
+Deep State-Space Generative Model For Correlated Time-to-Event Predictions,Data Mining,False
+DeepLine: AutoML Tool for Pipelines Generation using Deep Reinforcement Learning and Hierarchical Actions Filtering,Data Mining,False
+DeepSinger: Singing Voice Synthesis with Data Mined From the Web,Data Mining,False
+DETERRENT: Knowledge Guided Graph Attention Network for Detecting Healthcare Misinformation,Data Mining,False
+Directional Multivariate Ranking,Data Mining,False
+Discovering Approximate Functional Dependencies using Smoothed Mutual Information,Data Mining,False
+Discovering Functional Dependencies from Mixed-Type Data,Data Mining,False
+Discovering Succinct Pattern Sets Expressing Co-Occurrence and Mutual Exclusivity,Data Mining,False
+Disentangled Self-Supervision in Sequential Recommenders,Data Mining,False
+Diverse Rule Sets,Data Mining,False
+Dual Channel Hypergraph Collaborative Filtering,Data Mining,False
+Dynamic Knowledge Graph based Multi-Event Forecasting,Data Mining,False
+Edge-consensus Learning: Deep Learning on P2P Networks with Nonhomogeneous Data,Data Mining,False
+Efficient Algorithm for the b-Matching Graph,Data Mining,False
+Enterprise Cooperation and Competition Analysis with Sign-Oriented Preference Network,Data Mining,False
+Estimating Properties of Social Networks via Random Walk considering Private Nodes,Data Mining,False
+Estimating the Percolation Centrality of Large Networks through Pseudo-dimension Theory,Data Mining,False
+Evaluating Conversational Recommender Systems via User Simulation,Data Mining,False
+Evaluating Fairness using Permutation Tests,Data Mining,False
+Fast RobustSTL: Efficient and Robust Seasonal-Trend Decomposition for Time Series with Complex Patterns,Data Mining,False
+Feature-Induced Manifold Disambiguation for Multi-View Partial Multi-label Learning,Data Mining,False
+FedFast: Going Beyond Average for Faster Training of Federated Recommender Systems,Data Mining,False
+Finding Effective Geo-social Group for Impromptu Activities with Diverse Demands,Data Mining,False
+FreeDOM: A Transferable Neural Architecture for Structured Information Extraction on Web Documents,Data Mining,False
+From Online to Non-i.i.d. Batch Learning,Data Mining,False
+GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training,Data Mining,False
+Generic Outlier Detection in Multi-Armed Bandit,Data Mining,False
+Geodesic Forests,Data Mining,False
+Geography-Aware Sequential Location Recommendation,Data Mining,False
+GHashing: Semantic Graph Hashing for Approximate Similarity Search in Graph Databases,Data Mining,False
+GPT-GNN: Generative Pre-Training of Graph Neural Networks,Data Mining,False
+GRACE: Generating Concise and Informative Contrastive Sample to Explain Neural Network Model,Data Mining,False
+Grammatically Recognizing Images with Tree Convolution,Data Mining,False
+Graph Attention Networks over Edge  Content-Based Channels,Data Mining,False
+Graph Structural-topic Neural Network,Data Mining,False
+Graph Structure Learning for Robust Graph Neural Networks,Data Mining,False
+Grounding Visual Concepts for Multimedia Event Detection and Multimedia Event Captioning in Zero-shot Setting,Data Mining,False
+Handling Information Loss of Graph Neural Networks for Session-based Recommendation,Data Mining,False
+Heidegger: Interpretable Temporal Causal Discovery,Data Mining,False
+HGCN: A Heterogeneous Graph Convolutional Network-Based Deep Learning Model Toward Collective Classification,Data Mining,False
+HGMF: Heterogeneous Graph-based Fusion for Multimodal Data with Incompleteness,Data Mining,False
+Hierarchical Attention Propagation for Healthcare Representation Learning,Data Mining,False
+Hierarchical Topic Mining via Joint Spherical Tree and Text Embedding,Data Mining,False
+High-Dimensional Similarity Search with Quantum-Assisted Variational Autoencoder,Data Mining,False
+Higher-order Clustering in Complex Heterogeneous Networks,Data Mining,False
+HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records,Data Mining,False
+HOLMES: Health OnLine Model Ensemble Serving for Deep Learning Models in Intensive Care Units,Data Mining,False
+HOPS: Probabilistic Subtree Mining for Small and Large Graphs,Data Mining,False
+"How to count triangles, without seeing the whole graph",Data Mining,False
+Hyperbolic Distance Matrices,Data Mining,False
+Hypergraph Clustering Based on PageRank,Data Mining,False
+Identifying Sepsis Subphenotypes via Time-Aware Multi-Modal Auto-Encoder,Data Mining,False
+Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion,Data Mining,False
+Imputing Various Incomplete Attributes via Distance Likelihood Maximization,Data Mining,False
+In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints,Data Mining,False
+Incremental Lossless Graph Summarization,Data Mining,False
+Incremental Mobile User Profiling:  Reinforcement Learning with Spatial Knowledge Graph for Modeling Event Streams,Data Mining,False
+InfiniteWalk: Deep Network Embeddings as Laplacian Embeddings with a Nonlinearity,Data Mining,False
+InFoRM: Individual Fairness on Graph Mining,Data Mining,False
+INPREM: An Interpretable and Trustworthy Predictive Model for Healthcare,Data Mining,False
+Interactive Path Reasoning on Graph for Conversational Recommendation,Data Mining,False
+Interpretability is a Kind of Safety: An Interpreter-based Ensemble for Adversary Defense,Data Mining,False
+Interpretable Deep Graph Generation with Node-edge Co-disentanglement,Data Mining,False
+Isolation Distributional Kernel: A new tool for kernel based anomaly detection,Data Mining,False
+Joint Policy-Value Learning for Recommendation,Data Mining,False
+Kernel Assisted Learning for Personalized Dose Finding,Data Mining,False
+Kronecker Attention Networks,Data Mining,False
+Laplacian Change Point Detection for Dynamic Graphs,Data Mining,False
+LayoutLM: Pre-training of Text and Layout for Document Image Understanding,Data Mining,False
+Learning Based Distributed Tracking,Data Mining,False
+Learning Effective Road Network Representation with Hierarchical Graph Neural Networks,Data Mining,False
+Learning Opinion Dynamics From Social Traces,Data Mining,False
+Learning Stable Graphs from Heterogeneous Confounded Environments,Data Mining,False
+Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach,Data Mining,False
+Learning Transferrable Parameters for Long-tailed Sequential User Behavior Modeling,Data Mining,False
+Leveraging Model Inherent Variable Importance for Stable Online Feature Selection,Data Mining,False
+List-wise Fairness Criterion for Point Processes,Data Mining,False
+Local Community Detection in Multiple Networks,Data Mining,False
+Local Motif Clustering on Time-Evolving Graphs,Data Mining,False
+LogPar: Logistic PARAFAC2 Factorization for Temporal Binary Data with Missing Values,Data Mining,False
+Malicious Attacks against Deep Reinforcement Learning Interpretations,Data Mining,True
+MAMO: Memory-Augmented Meta-Optimization for Cold-start Recommendation,Data Mining,False
+Matrix Profile XXI: A Geometric Approach to Time Series Chains Improves Robustness,Data Mining,False
+MCRapper: Monte-Carlo Rademacher Averages for Poset Families and Approximate Pattern Mining,Data Mining,False
+Measuring Model Complexity of Neural Networks with Curve Activation Functions,Data Mining,False
+Meta-learning on Heterogeneous Information Networks for Cold-start Recommendation,Data Mining,False
+Minimal Variance Sampling with Provable Guarantees for Fast Training of Graph Neural Networks,Data Mining,False
+Minimizing Localized Ratio Cut Objectives in Hypergraphs,Data Mining,False
+Mining large quasi-cliques with quality guarantees from vertex neighborhoods,Data Mining,False
+Mining Persistent Activity in Continually Evolving Networks,Data Mining,False
+MinSearch: An Efficient Algorithm for Similarity Search under Edit Distance,Data Mining,False
+Missing Value Imputation for Mixed Data via Gaussian Copula,Data Mining,False
+MoFlow: An Invertible Flow Model for Generating Molecular Graphs,Data Mining,False
+Multi-class Data Description for Out-of-distribution Detection,Data Mining,False
+Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction,Data Mining,False
+Multi-Source Deep Domain Adaptation with Weak Supervision for Time-Series Sensor Data,Data Mining,False
+MultiImport: Inferring Node Importance in a Knowledge Graph from Multiple Input Signals,Data Mining,False
+Multimodal Learning with Incomplete Modalities by Knowledge Distillation,Data Mining,False
+NetTrans: Neural Cross-Network Transformation,Data Mining,False
+Neural Dynamics on Complex Networks,Data Mining,False
+Neural Subgraph Isomorphism Counting,Data Mining,False
+NodeAug: Semi-Supervised Node Classification with Data Augmentation,Data Mining,False
+Non-Linear Mining of Social Activities in Tensor Streams,Data Mining,False
+Off-policy Bandits with Deficient Support,Data Mining,False
+On Sampled Metrics for Item Recommendation,Data Mining,True
+On Sampling Top-K Recommendation Evaluation,Data Mining,False
+Parallel DNN Inference Framework Leveraging a Compact RISC-V ISA-based Multi-core System,Data Mining,False
+Parameterized Correlation Clustering in Hypergraphs and Bipartite Graphs,Data Mining,False
+Partial Multi-Label Learning via Probabilistic Graph Matching Mechanism,Data Mining,False
+"Personalized PageRank to a Target Node, Revisited",Data Mining,False
+PolicyGNN: Aggregation Optimization for Graph Neural Networks,Data Mining,False
+Predicting Temporal Sets with Deep Neural Networks,Data Mining,False
+Prediction and Profiling of Audience Competition for Online Television Series,Data Mining,False
+Preserving Dynamic Attention for Long-Term Spatial-Temporal Prediction,Data Mining,False
+Prioritized Restreaming Algorithms for Balanced Graph Partitioning,Data Mining,False
+Probabilistic Metric Learning with Adaptive Margin for Top-K Recommendation,Data Mining,False
+RayS: A Ray Searching Method for Hard-label Adversarial Attack,Data Mining,False
+Re-identification Attack to Privacy-Preserving Data Analysis with Noisy Sample-Mean,Data Mining,False
+REA: Robust Cross-lingual Entity Alignment Between Knowledge Graphs,Data Mining,False
+Reciptor: An Effective Pretrained Model for Recipe Representation Learning,Data Mining,False
+RECORD: Resource Constrained Semi-Supervised Learning under Distribution Shift,Data Mining,False
+Recurrent Halting Chain for Early Multi-label Classification,Data Mining,False
+Recurrent Networks for Guided Multi-Attention Classification,Data Mining,False
+Redundancy-Free Computation for Graph Neural Networks,Data Mining,False
+Representing Temporal Attributes for Schema Matching,Data Mining,False
+Residual Correlation in Graph Neural Network Regression,Data Mining,False
+Rethinking Pruning for Accelerating Deep Inference At the Edge,Data Mining,False
+Retrospective Loss: Looking Back to Improve Training of Deep Neural Networks,Data Mining,False
+Rich Information is Affordable: A Systematic Performance Analysis of Second-order Optimization Using K-FAC,Data Mining,False
+Robust Spammer Detection by Nash Reinforcement Learning,Data Mining,False
+Scaling choice models of relational social data,Data Mining,False
+SCE: Scalable Newtork Embedding from Sparsest Cut,Data Mining,False
+SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks,Data Mining,False
+Semantic Search in Millions of Equations,Data Mining,False
+Semi-supervised Collaborative Filtering by Text-enhanced Domain Adaptation,Data Mining,False
+Semi-Supervised Multi-Label Learning from Crowds via Deep Sequential Generative Model,Data Mining,False
+Sliding Sketches: A Framework using Time Zones for Data Stream Processing in Sliding Windows,Data Mining,False
+Spectrum-Guided Adversarial Disparity Learning,Data Mining,False
+SSumM: Sparse Summarization of Massive Graphs,Data Mining,False
+ST-SiameseNet: Spatio-Temporal Siamese Networks for Human Mobility Signature Identification,Data Mining,False
+Stable Learning via Differentiated Variable Decorrelation,Data Mining,False
+Statistically Significant Pattern Mining with Ordinal Utility,Data Mining,False
+STEAM: Self-Supervised Taxonomy Expansion via Path-Based Multi-View Co-Training,Data Mining,False
+Structural Patterns and Generative Models of Real-world Hypergraphs,Data Mining,False
+TAdaNet: Task-Adaptive Network for Graph-Enriched Meta-Learning,Data Mining,False
+Targeted Data-driven Regularization for Out-of-Distribution Generalization,Data Mining,False
+The NodeHopper: Enabling low latency ranking with constraints via a fast dual solver,Data Mining,False
+The Spectral Zoo of Networks: Embedding and Visualizing Networks with Spectral Moments,Data Mining,False
+Tight Sensitivity Bounds For Smaller Coresets,Data Mining,False
+TinyGNN: Learning Efficient Graph Neural Networks,Data Mining,False
+TIPRDC: Task-Independent Privacy-Respecting Data Crowdsourcing Framework for Deep Learning with Anonymized Intermediate Representations,Data Mining,True
+Towards Automated Neural Interaction Discovering for Click-Through Rate Prediction,Data Mining,False
+Towards Deeper Graph Neural Networks,Data Mining,False
+Towards Fair Truth Discovery from Biased Crowdsourced Answers,Data Mining,False
+Towards physics-informed deep learning for turbulent flow prediction,Data Mining,False
+TranSlider: Transfer Ensemble Learning from Exploitation to Exploration,Data Mining,False
+Treatment Policy Learning in Multiobjective Settings with Fully Observed Outcomes,Data Mining,False
+Truth Discovery against Strategic Sybil Attack in Crowdsourcing,Data Mining,False
+Ultrafast Local Outlier Detection from a Data Stream with Stationary Region Skipping,Data Mining,False
+Understanding Negative Sampling in Graph Representation Learning,Data Mining,False
+Unsupervised Differentiable Multi-aspect Network Embedding,Data Mining,False
+Unsupervised Paraphrasing via Deep Reinforcement Learning,Data Mining,False
+Vamsa: Automated Provenance Tracking in Data Science Scripts,Data Mining,False
+Voronoi Graph Traversal in High Dimensions with Applications to Topological Data Analysis and Piecewise Linear Interpolation,Data Mining,False
+Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning,Data Mining,False
+WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams,Data Mining,False
+WeightGrad: Geo-Distributed Data Analysis Using Quantization for Faster Convergence and Better Accuracy,Data Mining,False
+xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis,Data Mining,False
+XGNN: Towards Model-Level Explanations of Graph Neural Networks,Data Mining,False
+Z-Miner: an efficient method for mining frequent arrangements of event intervals,Data Mining,False
+A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce,Data Mining,False
+A Request-level Guaranteed Delivery Advertising Planning: Forecasting and Allocation,Data Mining,False
+A Self-Evolving Mutually-Operative Recurrent Network-based Model for Online Tool Condition Monitoring in Delay Scenario,Data Mining,False
+"A Sleeping, Recovering Bandit Algorithm for Optimizing Recurring Notifications",Data Mining,False
+Acoustic Measures for Real-Time Voice Coaching,Data Mining,False
+Ads Allocation in Feed via Constrained Optimization,Data Mining,False
+"An Automatic Approach for Generating Rich, Linked Geo-Metadata from Historical Map Images",Data Mining,False
+An Empirical Analysis of Backward Compatibility in Machine Learning Systems,Data Mining,False
+Attention based multi-modal new product sales time-series forecasting,Data Mining,False
+Attribute-based Propensity for Unbiased Learning in Recommender Systems: Algorithm and Case Studies,Data Mining,False
+AutoFIS: Automatic Feature Interaction Selection in Factorization Models for Click-Through Rate Prediction,Data Mining,False
+AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types,Data Mining,False
+Automatic Validation of Textual Attribute Values in ECommerce Catalog by Learning with Limited Labeled Data,Data Mining,False
+Balanced Order Batching with Task-Oriented Graph Clustering,Data Mining,False
+Bandit based Optimization of Multiple Objectives on a Music Streaming Platform,Data Mining,False
+Bootstrapping Complete The Look at Pinterest,Data Mining,False
+Building Continuous Integration Services for Machine Learning,Data Mining,False
+BusTr: predicting bus travel times from real-time traffic,Data Mining,False
+Calendar Graph Neural Networks for Modeling Time Structures in Spatiotemporal User Behaviors,Data Mining,False
+Cascade-LSTM: A Tree-Structured Neural Classifier for Detecting Misinformation Cascades,Data Mining,False
+Category-Specific CNN for Visual-aware CTR Prediction at JD.com,Data Mining,False
+Causal Meta-Mediation Analysis Inferring Dose-Response Function From Summary Statistics of Many Randomized Experiments,Data Mining,False
+Cellular Network Radio Propagation Modeling with Deep Convolutional Neural Networks,Data Mining,False
+Characterizing and Learning Representation on Customer Contact Journeys in Cellular Services,Data Mining,False
+City Metro Network Expansion with Reinforcement Learning,Data Mining,False
+CLARA: Confidence of Labels and Raters,Data Mining,False
+Climate Downscaling Using YNet: a Deep Convolutional Network with Skip Connections and Fusion,Data Mining,False
+Combo-Attention Network for Baidu Video Advertising,Data Mining,False
+CompactETA: A Fast Inference System for Travel Time Prediction,Data Mining,False
+Comprehensive Information Integration Modeling Framework for Video Titling,Data Mining,False
+ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps,Data Mining,False
+Contagious Chain Risk Rating for Networked-guarantee Loans,Data Mining,False
+Context-Aware Attentive Knowledge Tracing,Data Mining,False
+Controllable Multi-Interest Framework for Recommendation,Data Mining,False
+Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts,Data Mining,False
+Cracking the Black Box: Distilling Deep Sports Analytics,Data Mining,False
+CrowdQuake: A Networked System of Low-Cost Sensors for Earthquake Detection via Deep Learning,Data Mining,False
+DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection,Data Mining,False
+Debiasing Grid-based Product Search in E-commerce,Data Mining,False
+DeepTriage: Automated Transfer Assistance for Incidents in Cloud Services,Data Mining,False
+Delivery Scope: A New Way of Restaurant Retrieval For On-demand Food Delivery Service,Data Mining,False
+Doing in One Go: Delivered Time Inference Based on Coueriers' Trajectories,Data Mining,False
+Domain Specific Knowledge Graphs as a Service to the Public,Data Mining,False
+Dynamic Heterogeneous Graph Neural Network for Real-time Event Prediction,Data Mining,False
+Easy Perturbation EEG Algorithm for Spectral Importance (easyPEASI): A simple method to identify important spectral features of EEG in deep learning models,Data Mining,False
+Efficiently Solving the Practical Vehicle Routing Problem: A Novel Joint Learning Approach,Data Mining,False
+Embedding-based Retrieval in Facebook Search,Data Mining,False
+Explainable classification of brain networks via contrast subgraphs,Data Mining,False
+Faster Secure Data Mining via Distributed Homomorphic Encryption,Data Mining,False
+Federated Doubly Stochastic Kernel Learning for  Vertically Partitioned Data,Data Mining,False
+Fitbit for Chickens? Time Series Data Mining Can Increase the Productivity of Poultry Farms,Data Mining,False
+Forecasting the Evolution of Hydropower Generation,Data Mining,False
+Fraud Transactions Detection via Behavior Tree with Local Intention Calibration,Data Mining,False
+Game Action Modeling for Fine Grained Analyses of Player Behavior in Multi-player Card Games (Rummy as case study),Data Mining,False
+Gemini: A novel and universal heterogeneous graph information fusing framework for online recommendations,Data Mining,False
+General-Purpose User Embeddings based on Mobile App Usage,Data Mining,False
+Geodemographic Influence Maximization,Data Mining,False
+Grale: Designing Networks for Graph Learning,Data Mining,False
+GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce,Data Mining,False
+HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival,Data Mining,False
+Hubble: an Industrial System for Audience Expansion in Mobile Marketing,Data Mining,False
+Hybrid Spatio-Temporal Graph Convolutional Network: Improving Traffic Prediction with Navigation Data,Data Mining,False
+Hypergraph Convolutional Recurrent Neural Network,Data Mining,False
+Identifying Homeless Youth At-Risk of Substance Use Disorder: Data-Driven Insights for Policymakers,Data Mining,False
+Improving Deep Learning For Airbnb Search,Data Mining,False
+Improving Movement Predictions of Traffic Actors in Bird's-Eye View Models using GANs and Differentiable Trajectory Rasterizatio,Data Mining,False
+Improving Recommendation Quality in Google Drive,Data Mining,False
+Intelligent Exploration for User Interface Modules of Mobile App with Collective Learning,Data Mining,False
+Interleaved Sequence RNNs for Fraud Detection,Data Mining,False
+Jointly Learning to Recommend and Advertise,Data Mining,False
+"Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps",Data Mining,False
+Large-Scale Training System for 100-Million Classification at Alibaba,Data Mining,False
+Learning instrument invariant characteristics for generating high-resolution global coral reef maps,Data Mining,False
+Learning to Cluster Documents into Workspaces Using Large Scale Activity Logs,Data Mining,False
+Learning to Generate Personalized Query Auto-Completions via a Multi-View Multi-Task Attentive Approach,Data Mining,False
+Learning to score economic development from satellite imagery,Data Mining,False
+Learning with Limited Labels via Momentum Damped Differentially Weighted Training,Data Mining,False
+LRSpeech: Extremely Low-Resource Speech Synthesis and Recognition,Data Mining,False
+LUMOS: A library for diagnosing metric regressions for web-scale applications,Data Mining,False
+M2GRL: A Multi-task Multi-view Graph Representation Learning Framework for Web-scale Recommender Systems,Data Mining,False
+Managing Diversity in Airbnb Search,Data Mining,False
+Map Generation from Large Scale Incomplete and Inaccurate Data Labels,Data Mining,False
+Maximizing Cumulative User Engagement in Sequential Recommendation: An Online Optimization Perspective,Data Mining,False
+Meta-Learning for Query Conceptualization at Web Scale,Data Mining,False
+Mining Implicit Relevance Feedback from User Behavior for Web Question Answering,Data Mining,False
+Molecular Inverse-Design Platform for Material Industries,Data Mining,False
+Multi Modal Deep Learning Based Crop Classification Using Multispectral and Multitemporal Satellite Imagery,Data Mining,False
+Multi-objective Optimization for Guaranteed Delivery in Video Service Platform,Data Mining,False
+MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks,Data Mining,False
+Multitask Mixture of Sequential Experts for User Activity Streams,Data Mining,False
+Neural Input Search for Large Scale Recommendation Models,Data Mining,False
+Octet: Online Catalog Taxonomy Enrichment with Self-Supervision,Data Mining,False
+OptMatch: Optimized Matchmaking via Modeling the High-Order Interactions on the Arena,Data Mining,False
+Order Fulfillment Cycle Time Estimation for On-Demand Food Delivery,Data Mining,False
+Personalized Image Retrieval with Sparse Graph Representation Learning,Data Mining,False
+Personalized Prefix Embedding for POI Auto-Completion in the Search Engine of Baidu Maps,Data Mining,False
+Pest management in cotton farms: an AI-system case study from the global South,Data Mining,False
+PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest,Data Mining,False
+"Polestar: An Intelligent, Efficient and National-Wide Public Transportation Routing Engine",Data Mining,False
+Predicting Individual Treatment Effects of Large-scale Team Competitions in a Ride-sharing Economy,Data Mining,False
+Prediction of Hourly Earnings and Completion Time on a Crowdsourcing Platform,Data Mining,False
+Price Investment using Prescriptive Analytics and Optimization in Retail,Data Mining,False
+Privileged Features Distillation at Taobao Recommendations,Data Mining,False
+Reconstruction and Decomposition of High-Dimensional Landscapes via Unsupervised Learning,Data Mining,False
+Salience and Market-aware Skill Extraction for Job Targeting,Data Mining,False
+Scaling Graph Neural Networks with Approximate PageRank,Data Mining,False
+Shop The Look: Building a Large Scale Visual Shopping System at Pinterest,Data Mining,False
+SimClusters: Community-Based Representations for Heterogeneous Recommendations at Twitter,Data Mining,False
+Sub-Matrix Factorization for Real-Time Vote Prediction,Data Mining,False
+Taming Pretrained Transformers for eXtreme Multi-label Text Classification,Data Mining,False
+Temporal-Contextual Recommendation in Real-Time,Data Mining,True
+TIES: Temporal Interaction Embeddings For Enhancing Social Media Integrity At Facebook,Data Mining,False
+Time-Aware User Embeddings as a Service,Data Mining,False
+TIMME: Twitter Ideology-detection via Multi-task Multi-relational Embedding,Data Mining,False
+To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics,Data Mining,False
+Towards Building an Intelligent Chatbot for Customer Service: Learning to Respond at the Appropriate Time,Data Mining,False
+Two Sides of the Same Coin:  White-box and Black-box Attacks for Transfer Learning,Data Mining,False
+Unsupervised Translation via Hierarchical Anchoring: Functional Mapping of Places across Cities,Data Mining,False
+USAD : UnSupervised Anomaly Detection on multivariate time series,Data Mining,False
+User Sentiment as a Success Metric: Persistent Biases Under Full Randomization,Data Mining,False
+What is that Building? An End-to-end System for Building Recognition from Streetside Images,Data Mining,False

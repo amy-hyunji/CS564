@@ -8,7 +8,7 @@ VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity,Securit
 A Generic Technique for Automatically Finding Defense-Aware Code Reuse Attacks,Security,False
 Security Analysis and Implementation of Relay-Resistant Contactless Payments,Security,False
 MuSig-DN: Two-Round Schnorr Multi-Signatures with Verifiably Deterministic Nonces,Security,False
-"LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction",Security,False
+LEAF: A Faster Secure Search Algorithm via Localization, Extraction, and Reconstruction,Security,False
 GAN-Leaks: A Taxonomy of Membership Inference Attacks against Generative Models,Security,False
 DECO: Liberating Web Data Using Decentralized Oracles for TLS,Security,False
 PDiff: Semantic-based Patch Presence Testing for Downstream Kernels,Security,False
@@ -25,14 +25,12 @@ eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts,
 Devil is Virtual: Reversing Virtual Inheritance in C++ Binaries,Security,False
 Talking with Familiar Strangers: An Empirical Study on HTTPS Context Confusion Attacks,Security,False
 A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models,Security,False
-"When the Differences in Frequency Domain are Compensated: Understanding and
-                  Defeating Modulated Replay Attacks on Automatic Speech Recognition",Security,False
+When the Differences in Frequency Domain are Compensated: Understanding and Defeating Modulated Replay Attacks on Automatic Speech Recognition,Security,False
 Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems,Security,False
 Exaggerated Error Handling Hurts! An In-Depth Study and Context-Aware Detection,Security,False
 Lies in the Air: Characterizing Fake-base-station Spam Ecosystem in China,Security,False
 Text Captcha Is Dead? A Large Scale Deployment and Empirical Study,Security,False
-"R^2DP: A Universal and Automated Approach to Optimizing the Randomization
-                  Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions",Security,False
+R^2DP: A Universal and Automated Approach to Optimizing the Randomization Mechanisms of Differential Privacy for Utility Metrics with No Known Optimal Distributions,Security,False
 SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback,Security,False
 "Blinder -- Scalable, Robust Anonymous Committed Broadcast",Security,False
 Dumbo: Faster Asynchronous BFT Protocols,Security,False
@@ -84,7 +82,7 @@ Analyzing Information Leakage of Updates to Natural Language Models,Security,Fal
 A Systematic Study of Elastic Objects in Kernel Exploitation,Security,False
 "Definitive recommendations for stronger, more usable passwords combining minimum-strength, minimum-length, and blacklist requirements",Security,False
 Clone Detection in Secure Messaging: Improving Post-Compromise Security in Practice,Security,False
-DNS Cache Poisoning Attack Reloaded: Revolutions With Side Channels,Security,False
+DNS Cache Poisoning Attack Reloaded: Revolutions With Side Channels,Security,True
 Towards Attribution in Mobile Markets: Identifying Developer Account Polymorphism,Security,False
 CheckDP: An Automated and Integrated Approach for Proving Differential Privacy or Finding Precise Counterexamples,Security,False
 "Censored Planet: An Internet-wide, Longitudinal Censorship Observatory",Security,False
