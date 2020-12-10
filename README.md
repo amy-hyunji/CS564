@@ -1,6 +1,9 @@
 # CS564 Project: Academic paper writing tone depending on the author's location
 This is the repository for storing nlp analyzed sample data and code for our CS564 final project paper.
 
+### Dataset
+https://drive.google.com/file/d/1eoFuvB0xkgqk1vjtZq2fu4q4bu2eU3ka/view?usp=sharing
+
 ### Code Structure
 ```
 |__ preprocessed_data/
