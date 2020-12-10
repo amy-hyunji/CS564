@@ -161,7 +161,7 @@ class Analyzer():
         for cont, val in self.list:
             print(f"{cont}: {val}")
 
-    def analyze_subject_by_country(self):
+    def analyze_subjt_by_country(self):
         print("\nAnalyzing subjectivity mean for each country ... ")
         self.dict = {}
         self.list = []
