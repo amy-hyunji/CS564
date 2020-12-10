@@ -126,12 +126,16 @@ for filename in os.listdir(readFilePath1):
         if not aff in ['United States', 'China']:
             continue
         ab = remove_copyright(paper.description)
+        year = int(paper.coverDate.split('-')[0])
+
+        if year < 2000 or year > 2019:
+        	continue
 
         tmp['title'].append(paper.title)
         tmp['abstract'].append(ab)
         tmp['category'].append([area.code for area in paper.subject_areas if area.code[:2]=='17'])
         tmp['country'].append(aff)
-        tmp['year'].append(int(paper.coverDate.split('-')[0]))
+        tmp['year'].append(year)
 
         tmp['author_num'].append(len(paper.authors))
 
