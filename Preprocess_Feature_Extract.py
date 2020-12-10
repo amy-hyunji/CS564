@@ -149,7 +149,9 @@ for filename in os.listdir(readFilePath1):
         tmp['female'].append(female)
         tmp['i'].append(i)
         tmp['we'].append(we)
-        tmp['gender_score'].append((male-female)/(male+female))
+
+        gender_score = 0.0 if (male==0 and female==0) else (male-female)/(male+female)
+        tmp['gender_score'].append(gender_score)
         tmp['gendered_term'].append(gendered_term)
 
 df = pd.DataFrame(data)
